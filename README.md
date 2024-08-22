@@ -1,5 +1,5 @@
 # About
-I am a principal data scientist that specializes in prototyping analytical solutions at scale on big data. I have experience with:
+I am a principal data scientist that specializes in prototyping analytical solutions at scale on big data. Currently, my day to day work goes with writing python, sql, and spark code, leading teams, and developing strategy. I have experience with:
 
 LLMs • Fine-tuning • Generative AI • Transformers • Machine learning • time series analysis • predictive analytics • deep learning • Natural language processing • large language models • dashboards and visualizations
 
