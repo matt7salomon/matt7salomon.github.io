@@ -5,7 +5,7 @@ LLMs • Fine-tuning • Generative AI • Transformers • Machine learning •
 
 I have experience developing the following solutions:
 
-Recommendation Engines • A/B testing • Image processing • Real-time object detection • Fraud Detection • Ad/Promotion Targeting • Fine tuning LLMs •Business Insights ...
+Health insurance risk • Recommendation Engines • A/B testing • Image processing • Real-time object detection • Fraud Detection • Ad/Promotion Targeting • Developing LLM chatbots • Fine tuning LLMs • RAG • Business Insights
 
 I currently actively use the following tools depending on client needs:
 
