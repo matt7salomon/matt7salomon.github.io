@@ -27,10 +27,10 @@ Predicted churn along with the CLV of the customer base by clustering similar cu
 ### Recommendation Engine: 
 Built a recommendation engine in Spark to recommend new movies to users. The algorithm was placed in a Microsoft scheduler and executed twice a day. It would recommend new movies to the users in different carousels based on their viewer-ship history, recent purchases, and recent clicks. The product included a recency element where the most recent user ratings would get more weight. It also included a cold-start algorithm that was working based on user-segmentation from the features the customer had collected from users. 
 
-### Detecting cancer from mammograms: 
+### Detecting cancer from mammograms (deep learning): 
 This project was a deep learning use-case to detect cancer from mammograms and had to have a high recall. The final results would be triaged by a physician and it was important that all positive cases are caught. The results were presented to the customer using metrics such as accuracy, precision, and recall.
 
-### Real time object detection in the road (self driving car): 
+### Real time object detection in the road for a self driving car (deep learning): 
 Used deep learning for object detection from thousands of images and videos in Tensorflow, Caffe, Pytorch, and mxnet to detect pedestrians, trucks, SUVs, sedans, and bicycles as well as road signs.
 
 ### Natural Language Processing (NLP): 
