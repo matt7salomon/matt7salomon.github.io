@@ -20,7 +20,7 @@ AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • 
 
 # Recent Projects
 
-### Legal Navigator:
+### Legal Navigator (GPT4 chatbot):
 Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing a innovative hybrid search which filters the irrelevant vectors quickly for a faster response time.
 
 ### Fine-tuning GPT 3.5 turbo and GPT 4o mini for feature extraction:
@@ -44,7 +44,7 @@ Found the most successful paths to user subscriptions from customer road includi
 ### Customer Lifetime Value (CLV) and Churn: 
 Predicted churn along with the CLV of the customer base by clustering similar customers using all collected features.  I also estimated the potential value from any subscription using deep learning.
 
-### Recommendation Engine: 
+### Recommendation Engine (Similar to Netflix recommendations): 
 Built a recommendation engine in Spark to recommend new movies to users. The algorithm was placed in a Microsoft scheduler and executed twice a day. It would recommend new movies to the users in different carousels based on their viewer-ship history, recent purchases, and recent clicks. The product included a recency element where the most recent user ratings would get more weight. It also included a cold-start algorithm that was working based on user-segmentation from the features the customer had collected from users. 
 
 ### Detecting cancer from mammograms (deep learning): 
@@ -56,8 +56,8 @@ Used deep learning for object detection from thousands of images and videos in T
 ### Natural Language Processing (NLP): 
 This project included many pasts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents.
 
-### Marketing Channel Attribution: 
-wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history
+### Marketing Channel Attribution (finding the most successful ads): 
+wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust thier marketing strategy. 
 
 ### Fraud Analysis: 
 Detected fraud accounts in millions of customer accounts based on their pattern compared to similar accounts in the same domain as well as other unusual patterns
