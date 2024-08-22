@@ -15,6 +15,9 @@ Evaluated risk of under 250 member accounts and decided if the insurance company
 ### Search Engine A/B Test: 
 Analyzed two search engine products by calculating total utilization and remuneration from Ad clicks per day. The test was performed by dividing traffic equally to two search engines and determining which one was more successful in terms of ad-clicks.
 
+### Sales Forecasting:
+Wrote an elaborate code to perform sales forecasting using ARIMA and Facebook Prophet for the future quarter for many clients. The code considered many possible elements such as seasonality or hosted events that would have an impact on sales. Also, wrote a win-model which was a classifier predicting which sales oppurtunities have a higher chance to be won so the account executive spend more time on the more profitable opportunities.
+
 ### Subscription Roadmap: 
 Found the most successful paths to user subscriptions from customer road including clicks, website visits, store logins, etc.
 
