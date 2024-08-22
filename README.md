@@ -53,6 +53,9 @@ This project included many pasts: one was sentiment analysis of servicenow ticke
 ### Marketing Channel Attribution (finding the most successful ads): 
 wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust thier marketing strategy. 
 
+### Converting legacy code between python/R/Java/Spark/Scala:
+On many occasions, I had to convert legacy code between different platforms for many reasons including adapting it to a cloud provider or to connect to a new platform or to make it work as a distributed processing code. 
+
 ### Fraud Analysis and Anomaly Analysis: 
 Detected fraud accounts in millions of customer accounts based on their pattern compared to similar accounts in the same domain as well as other unusual patterns
 
