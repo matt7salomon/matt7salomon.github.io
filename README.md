@@ -1,4 +1,5 @@
 # Recent Projects
+
 ### Legal Navigator:
 Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing a innovative hybrid search which filters the irrelevant vectors quickly for a faster response time.
 
@@ -7,6 +8,9 @@ Fine-tuned GPT 3.5 turbo and GPT 4o mini to receive complaint files submitted to
 
 ### Fine-tuning Llama2 model for question answering based on previous customer calls:
 Fine-tuned a llama2 model on a databricks platform to be able to respond to questions that the account executives had on the products from the saved chat between system's engineers and the customers that were saved as scripts. The product reduced the need for account executives to reach out to technical personnel to get information about the products within the company portfolio.
+
+### Health insurance:
+Evaluated risk of under 250 member accounts and decided if the insurance company should extend a quote or adjust a quote for these customers. Our model decided increments, decrements, or decline to quote for small corporate customers where historical claims data did not exist for a 2 year ongoing engagement.
 
 ### Search Engine A/B Test: 
 Analyzed two search engine products by calculating total utilization and remuneration from Ad clicks per day. The test was performed by dividing traffic equally to two search engines and determining which one was more successful in terms of ad-clicks.
@@ -26,14 +30,14 @@ This project was a deep learning use-case to detect cancer from mammograms and h
 ### Real time object detection in the road (self driving car): 
 Used deep learning for object detection from thousands of images and videos in Tensorflow, Caffe, Pytorch, and mxnet to detect pedestrians, trucks, SUVs, sedans, and bicycles as well as road signs.
 
-### NLP: 
+### Natural Language Processing (NLP): 
 This project included many pasts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents.
 
 ### Marketing Channel Attribution: 
-wrote a method to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history
+wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history
 
 ### Fraud Analysis: 
-Found fraud accounts in millions of customer accounts based on their pattern compared to similar accounts in the same domain as well as other unusual patterns
+Detected fraud accounts in millions of customer accounts based on their pattern compared to similar accounts in the same domain as well as other unusual patterns
 
 ### Root Cause Analysis: 
 Detected and isolated the root-cause of failure in large petrochemical processes from collected sensor data (pressure, temperature, flow, etc.) using advanced data-mining methods.
