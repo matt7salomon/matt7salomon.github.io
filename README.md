@@ -29,7 +29,7 @@ Fine-tuned GPT 3.5 turbo and GPT 4o mini to receive complaint files submitted to
 ### Fine-tuning Llama2 model for question answering based on previous customer calls:
 Fine-tuned a llama2 model on a databricks platform to be able to respond to questions that the account executives had on the products from the saved chat between system's engineers and the customers that were saved as scripts. The product reduced the need for account executives to reach out to technical personnel to get information about the products within the company portfolio.
 
-### Health insurance:
+### Health Insurance Risk:
 Evaluated risk of under 250 member accounts and decided if the insurance company should extend a quote or adjust a quote for these customers. Our model decided increments, decrements, or decline to quote for small corporate customers where historical claims data did not exist for a 2 year ongoing engagement.
 
 ### Search Engine A/B Test: 
@@ -38,12 +38,6 @@ Analyzed two search engine products by calculating total utilization and remuner
 ### Sales Forecasting:
 Wrote an elaborate code to perform sales forecasting using ARIMA and Facebook Prophet for the future quarter for many clients. The code considered many possible elements such as seasonality or hosted events that would have an impact on sales. Also, wrote a win-model which was a classifier predicting which sales oppurtunities have a higher chance to be won so the account executive spend more time on the more profitable opportunities.
 
-### Subscription Roadmap: 
-Found the most successful paths to user subscriptions from customer road including clicks, website visits, store logins, etc.
-
-### Customer Lifetime Value (CLV) and Churn: 
-Predicted churn along with the CLV of the customer base by clustering similar customers using all collected features.  I also estimated the potential value from any subscription using deep learning.
-
 ### Recommendation Engine (Similar to Netflix recommendations): 
 Built a recommendation engine in Spark to recommend new movies to users. The algorithm was placed in a Microsoft scheduler and executed twice a day. It would recommend new movies to the users in different carousels based on their viewer-ship history, recent purchases, and recent clicks. The product included a recency element where the most recent user ratings would get more weight. It also included a cold-start algorithm that was working based on user-segmentation from the features the customer had collected from users. 
 
@@ -51,7 +45,7 @@ Built a recommendation engine in Spark to recommend new movies to users. The alg
 This project was a deep learning use-case to detect cancer from mammograms and had to have a high recall. The final results would be triaged by a physician and it was important that all positive cases are caught. The results were presented to the customer using metrics such as accuracy, precision, and recall.
 
 ### Real time object detection in the road for a self driving car (deep learning): 
-Used deep learning for object detection from thousands of images and videos in Tensorflow, Caffe, Pytorch, and mxnet to detect pedestrians, trucks, SUVs, sedans, and bicycles as well as road signs.
+Used deep learning and a YOLO algorithm to detect objects from thousands of images and videos collected by cars dashcam. Per clients request the method was implemented in Tensorflow, Caffe, Pytorch, and mxnet for a quick comparison. The final deployed algorithm would detect pedestrians, trucks, SUVs, sedans, and bicycles as well as road signs.
 
 ### Natural Language Processing (NLP): 
 This project included many pasts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents.
@@ -59,8 +53,14 @@ This project included many pasts: one was sentiment analysis of servicenow ticke
 ### Marketing Channel Attribution (finding the most successful ads): 
 wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust thier marketing strategy. 
 
-### Fraud Analysis: 
+### Fraud Analysis and Anomaly Analysis: 
 Detected fraud accounts in millions of customer accounts based on their pattern compared to similar accounts in the same domain as well as other unusual patterns
+
+### Subscription Roadmap: 
+Found the most successful paths to user subscriptions from customer road including clicks, website visits, store logins, etc.
+
+### Customer Lifetime Value (CLV) and Churn: 
+Predicted churn along with the CLV of the customer base by clustering similar customers using all collected features.  I also estimated the potential value from any subscription using deep learning.
 
 ### Root Cause Analysis: 
 Detected and isolated the root-cause of failure in large petrochemical processes from collected sensor data (pressure, temperature, flow, etc.) using advanced data-mining methods.
