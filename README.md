@@ -56,7 +56,7 @@ wrote an object oriented code to share credit between offline an online marketin
 ### Converting legacy code between python/R/Java/Spark/Scala:
 On many occasions, I had to convert legacy code between different platforms for many reasons including adapting it to a cloud provider or to connect to a new platform or to make it work as a distributed processing code. 
 
-### Ad/promotio targeting:
+### Ad/promotion targeting:
 Helped a software vendor target ads and promotions to the customers who were likely to churn not to disturb all customers at the same time and to save money on promotions too. The solution would send a pop up to on the screen of the targeted user to sign-up again at a discount.
 
 ### Fraud Analysis and Anomaly Analysis: 
