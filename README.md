@@ -16,6 +16,7 @@ Notable packages and libraries that I use for data mining and machine learning:
 `Pyspark • Spark ML • MLlib • Scikit-learn • Theano • TensorFlow • Pytorch • H2O • Transformers`
 
 I have used the following cloud platforms and services:
+
 `AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • BigQuery • Snowflake`
 
 # Recent Projects
