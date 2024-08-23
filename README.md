@@ -43,6 +43,9 @@ A major part of this project was feature engineering to extract meaningful featu
 ### Prompt Engineering:
 Worked on prompt engineering of GPT and llama based models to acheive the desired results in terms of output format and content. The prompt engineering included zero-shot and few-shot learning and was applied to non fine-tuned models.
 
+### LLM Performance Evaluation and Hallucination Reduction:
+Used Mistral AI to evaluate the performance of GPT 3.5 responses matching the features in the golden dataset. Also, used the newly developed Ragas module in python to get the context relateness, context precision, context recall, accuracy,... for the extracted features by an LLM. Also, used newly developed approaches in the literature to reduce hallucination of openai LLMs beyond just adjusting temperature.
+ 
 ### Search Engine A/B Test and product A/B test: 
 Analyzed two search engine products by calculating total utilization and remuneration from Ad clicks per day. The test was performed by dividing traffic equally to two search engines and determining which one was more successful in terms of ad-clicks. Also, on the same project, I performed an A/B test between some minimal changes to the website figuring out which version performed better in terms of attracting viewers to click on different buttons.
 
