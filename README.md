@@ -23,6 +23,8 @@ I have used the following cloud platforms and services:
 
 ### Legal Navigator (GPT4 chatbot):
 Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing a innovative hybrid search which filters the irrelevant vectors quickly for a faster response time.
+> [!NOTE]
+> This product was sold to three different retailers and pharmaceutical companies.
 
 ### Fine-tuning GPT 3.5 turbo and GPT 4o mini for feature extraction:
 Fine-tuned GPT 3.5 turbo and GPT 4o mini to receive complaint files submitted to a law firm as input and extract the necessary features that lawyers spent hundreds of hours to extract in the past. The fine-tuning was done on a scale.ai and Azure-ML platform and the dataset for fine-tuning was extracted using an API call to relativity database that the lawyers had previously used.
