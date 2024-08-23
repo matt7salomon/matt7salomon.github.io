@@ -22,7 +22,7 @@ I have used the following cloud platforms and services:
 # Recent Projects
 
 ### Legal Navigator (GPT4 chatbot):
-Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing a innovative hybrid search which filters the irrelevant vectors quickly for a faster response time.
+This was a 0 to 1 product ideation to deployment into production. Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing a innovative hybrid search which filters the irrelevant vectors quickly for a faster response time.
 > [!NOTE]
 > This product was sold to three different retailers and pharmaceutical companies.
 
@@ -30,7 +30,7 @@ Created a GPT4 based RAG using the langchain and azure ML ecosystem that would c
 Fine-tuned GPT 3.5 turbo and GPT 4o mini to receive complaint files submitted to a law firm as input and extract the necessary features that lawyers spent hundreds of hours to extract in the past. The fine-tuning was done on a scale.ai and Azure-ML platform and the dataset for fine-tuning was extracted using an API call to relativity database that the lawyers had previously used.
 
 ### Fine-tuning Llama2 model for question answering based on previous customer calls:
-Fine-tuned a llama2 model on a databricks platform to be able to respond to questions that the account executives had on the products from the saved chat between system's engineers and the customers that were saved as scripts. The product reduced the need for account executives to reach out to technical personnel to get information about the products within the company portfolio.
+This was a 0 to 1 product ideation to deployment into production. Fine-tuned a llama2 model on a databricks platform to be able to respond to questions that the account executives had on the products from the saved chat between system's engineers and the customers that were saved as scripts. The product reduced the need for account executives to reach out to technical personnel to get information about the products within the company portfolio.
 
 ### Health Insurance Risk:
 Evaluated risk of small corporate accounts with under 250 members to decide if the insurance company should extend a quote or adjust a quote for these customers. Our model decided increments, decrements, or decline to quote for small corporate customers where historical claims data did not exist for a 2 year ongoing engagement. The provider was previously using a prescription only model and I helped them extended to a prescription+medical model improving metrics and saving the company money.
@@ -44,7 +44,7 @@ Analyzed two search engine products by calculating total utilization and remuner
 Wrote an elaborate code to perform sales forecasting using ARIMA and Facebook Prophet for the future quarter for many clients. The code considered many possible elements such as seasonality or hosted events that would have an impact on sales. Also, wrote a win-model which was a classifier predicting which sales oppurtunities have a higher chance to be won so the account executive spend more time on the more profitable opportunities.
 
 ### Recommendation Engine (Similar to Netflix recommendations): 
-Built a recommendation engine in Spark to recommend new movies to users. The algorithm was placed in a Microsoft scheduler and executed twice a day. It would recommend new movies to the users in different carousels based on their viewer-ship history, recent purchases, and recent clicks. The product included a recency element where the most recent user ratings would get more weight. It also included a cold-start algorithm that was working based on user-segmentation from the features the customer had collected from users. 
+This was a 0 to 1 product ideation to deployment into production. Built a recommendation engine in Spark to recommend new movies to users. The algorithm was placed in a Microsoft scheduler and executed twice a day. It would recommend new movies to the users in different carousels based on their viewer-ship history, recent purchases, and recent clicks. The product included a recency element where the most recent user ratings would get more weight. It also included a cold-start algorithm that was working based on user-segmentation from the features the customer had collected from users. 
 > [!NOTE]
 > This product is still in production in a major telecommunication compnay on their hadoop cluster.
 
