@@ -1,7 +1,7 @@
 # About
 I am a principal data scientist that specializes in prototyping analytical solutions at scale on big data. Currently, my day to day work goes with writing python, sql, spark code, leading teams, leading projects, and developing strategy. I have both IC and team lead experience. I have experience with:
 
-`LLMs • Fine-tuning • Generative AI • Transformers • Machine learning • time series analysis • predictive analytics • deep learning • Natural language processing • large language models • dashboards and visualizations`
+`LLMs • Fine-tuning • Generative AI • Transformers • Machine learning • time series analysis • predictive analytics • deep learning • Natural language processing • dashboards and visualizations • Teaching data science • Connecting with non-technical audience`
 
 I have experience developing the following solutions:
 
@@ -51,7 +51,7 @@ Used deep learning and a YOLO algorithm to detect objects from thousands of imag
 ### Natural Language Processing (NLP): 
 This project included many pasts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents.
 
-### Marketing Channel Attribution (finding the most successful ads): 
+### Marketing Channel Attribution (finding the most successful ad platforms): 
 wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust thier marketing strategy. 
 
 ### Converting legacy code between python/R/Java/Spark/Scala:
