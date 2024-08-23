@@ -44,12 +44,12 @@ A major part of this project was feature engineering to extract meaningful featu
 Analyzed two search engine products by calculating total utilization and remuneration from Ad clicks per day. The test was performed by dividing traffic equally to two search engines and determining which one was more successful in terms of ad-clicks. Also, on the same project, I performed an A/B test between some minimal changes to the website figuring out which version performed better in terms of attracting viewers to click on different buttons.
 
 ### Sales Forecasting:
-Wrote an elaborate code to perform sales forecasting using ARIMA and Facebook Prophet for the future quarter for many clients. The code considered many possible elements such as seasonality or hosted events that would have an impact on sales. Also, wrote a win-model which was a classifier predicting which sales oppurtunities have a higher chance to be won so the account executive spend more time on the more profitable opportunities.
+Wrote an elaborate code to perform sales forecasting using ARIMA and Facebook Prophet for the future quarter for many clients. The code considered many possible elements such as seasonality or hosted events that would have an impact on sales. Also, wrote a win-model which was a classifier predicting which sales opportunities have a higher chance to be won so the account executive spend more time on the more profitable opportunities.
 
 ### Recommendation Engine (Similar to Netflix recommendations): 
 This was a 0 to 1 product ideation to deployment into production. Built a recommendation engine in Spark to recommend new movies to users. The algorithm was placed in a Microsoft scheduler and executed twice a day. It would recommend new movies to the users in different carousels based on their viewer-ship history, recent purchases, and recent clicks. The product included a recency element where the most recent user ratings would get more weight. It also included a cold-start algorithm that was working based on user-segmentation from the features the customer had collected from users. 
 > [!NOTE]
-> This product is still in production in a major telecommunication compnay on their hadoop cluster. The recommendation engine has been upgraded a few times but it is still essentially the same base product. It is being used to recommend videos in south american countries that the telecommunication company serves.
+> This product is still in production in a major telecommunication company on their hadoop cluster. The recommendation engine has been upgraded a few times but it is still essentially the same base product. It is being used to recommend videos in south american countries that the telecommunication company serves.
 
 ### Detecting cancer from mammograms (deep learning): 
 This project was a deep learning use-case to detect cancer from mammograms and had to have a high recall. The final results would be triaged by a physician and it was important that all positive cases are caught. The results were presented to the customer using metrics such as accuracy, precision, and recall.
@@ -63,7 +63,7 @@ Used deep learning and a YOLO algorithm to detect objects from thousands of imag
 This project included many parts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents.
 
 ### Marketing Channel Attribution (finding the most successful ad platforms): 
-wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust thier marketing strategy. 
+wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust their marketing strategy. 
 
 ### Converting legacy code between python/R/Java/Spark/Scala:
 On many occasions, I had to convert legacy code between different platforms for many reasons including adapting it to a cloud provider or to connect to a new platform or to make it work as a distributed processing code. 
