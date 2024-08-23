@@ -35,7 +35,7 @@ This was a 0 to 1 product ideation to deployment into production. Fine-tuned a l
 ### Health Insurance Risk:
 Evaluated risk of small corporate accounts with under 250 members to decide if the insurance company should extend a quote or adjust a quote for these customers. Our model decided increments, decrements, or decline to quote for small corporate customers where historical claims data did not exist for a 2 year ongoing engagement. The provider was previously using a prescription only model and I helped them extended to a prescription+medical model improving metrics and saving the company money.
 > [!NOTE]
-> My Med+RX model is currently in production for this large health insurance provider.
+> My Med+RX model is currently in production for this large health insurance provider. It is being retrained periodically on the newly provided data to adjust to medication price inflations and to avoid model drift but the structure stays the same.
 
 ### Health Claims Acceptance/denial:
 A major part of this project was feature engineering to extract meaningful features from the available data to be able to predict if a certain claim should be accepted or denied. Our team of 4 data scientists split efforts on different models and feature engineering to be able to reach an accuracy, precision, and recall of all around 95%. Our champion model was an AdaBoost classifier which even performed better than the neural networks which tended to overfit on this particular dataset. The whole process which took on average of 4 days to respond by the healthcare provider was simplified to minutes in this case.
