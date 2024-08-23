@@ -60,7 +60,7 @@ Used deep learning and a YOLO algorithm to detect objects from thousands of imag
 > This product went into production for a Japanese car manufacturer.
 
 ### Natural Language Processing (NLP): 
-This project included many parts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents.
+This project included many parts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents. We also used the same distil-Bert model from HuggingFace to answer questions from the large textual data corpus of the bank as GPT 3 model had not been released yet.
 
 ### Marketing Channel Attribution (finding the most successful ad platforms): 
 wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust their marketing strategy. 
