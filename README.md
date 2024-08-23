@@ -37,8 +37,8 @@ Evaluated risk of small corporate accounts with under 250 members to decide if t
 > [!NOTE]
 > My Med+RX model is currently in production for this large health insurance provider.
 
-### Search Engine A/B Test: 
-Analyzed two search engine products by calculating total utilization and remuneration from Ad clicks per day. The test was performed by dividing traffic equally to two search engines and determining which one was more successful in terms of ad-clicks.
+### Search Engine A/B Test and product A/B test: 
+Analyzed two search engine products by calculating total utilization and remuneration from Ad clicks per day. The test was performed by dividing traffic equally to two search engines and determining which one was more successful in terms of ad-clicks. Also, on the same project, I performed an A/B test between some minimal changes to the website figuring out which version performed better in terms of attracting viewers to click on different buttons.
 
 ### Sales Forecasting:
 Wrote an elaborate code to perform sales forecasting using ARIMA and Facebook Prophet for the future quarter for many clients. The code considered many possible elements such as seasonality or hosted events that would have an impact on sales. Also, wrote a win-model which was a classifier predicting which sales oppurtunities have a higher chance to be won so the account executive spend more time on the more profitable opportunities.
