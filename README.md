@@ -74,6 +74,9 @@ Helped a software vendor target ads and promotions to the customers who were lik
 ### Fraud Analysis and Anomaly Analysis: 
 Detected fraud accounts in millions of customer accounts based on their pattern compared to similar accounts in the same domain as well as other unusual patterns
 
+### Lost and Found Images for a Courier (deep learning): 
+We received a large dataset of objects found by the courier in their lost and found with item id and the item picture from different angels. Customers had also submitted pictures of their lost items. We trained a convolutional neural network to match the customer submitted photo to the pictures in the repository and find the lost item. In this instance, the client had approached us with a well defined problem but we created the solution and deployed it into production for the courier. 
+
 ### Subscription Roadmap: 
 Found the most successful paths to user subscriptions from customer road including clicks, website visits, store logins, etc.
 
