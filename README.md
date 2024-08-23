@@ -57,7 +57,7 @@ This project was a deep learning use-case to detect cancer from mammograms and h
 ### Real time object detection in the road for a self driving car (deep learning): 
 Used deep learning and a YOLO algorithm to detect objects from thousands of images and videos collected by cars dashcam. Per clients request the method was implemented in Tensorflow, Caffe, Pytorch, and mxnet for a quick comparison. The final deployed algorithm would detect pedestrians, trucks, SUVs, sedans, and bicycles as well as road signs.
 > [!NOTE]
-> This product went into production for a Japanese car manufacturer.
+> This product went into production for a Japanese car manufacturer. Not sure if they still use this version or changed to a different product as YOLO has advanced and improved a lot since.
 
 ### Natural Language Processing (NLP): 
 This project included many parts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents. We also used the same distil-Bert model from HuggingFace to answer questions from the large textual data corpus of the bank as GPT 3 model had not been released yet.
