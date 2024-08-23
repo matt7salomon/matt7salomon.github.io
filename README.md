@@ -34,6 +34,8 @@ Fine-tuned a llama2 model on a databricks platform to be able to respond to ques
 
 ### Health Insurance Risk:
 Evaluated risk of small corporate accounts with under 250 members to decide if the insurance company should extend a quote or adjust a quote for these customers. Our model decided increments, decrements, or decline to quote for small corporate customers where historical claims data did not exist for a 2 year ongoing engagement. The provider was previously using a prescription only model and I helped them extended to a prescription+medical model improving metrics and saving the company money.
+> [!NOTE]
+> My Med+RX model is currently in production for this large health insurance provider.
 
 ### Search Engine A/B Test: 
 Analyzed two search engine products by calculating total utilization and remuneration from Ad clicks per day. The test was performed by dividing traffic equally to two search engines and determining which one was more successful in terms of ad-clicks.
