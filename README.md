@@ -89,6 +89,11 @@ Found the most successful paths to user subscriptions from customer road includi
 ### Customer Lifetime Value (CLV) and Churn: 
 Predicted churn along with the CLV of the customer base by clustering similar customers using all collected features.  I also estimated the potential value from any subscription using deep learning.
 
+### Stock/Options Portfolio Risk: 
+
+### Cybersecurity Vulnerability Detection: 
+
+
 ### Root Cause Analysis: 
 Detected and isolated the root-cause of failure in large petrochemical processes from collected sensor data (pressure, temperature, flow, etc.) using advanced data-mining methods.
 > [!NOTE]
