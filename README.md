@@ -90,9 +90,10 @@ Found the most successful paths to user subscriptions from customer road includi
 Predicted churn along with the CLV of the customer base by clustering similar customers using all collected features.  I also estimated the potential value from any subscription using deep learning.
 
 ### Stock/Options Portfolio Risk: 
+This project was to optimize a portfolio of stocks and options for different clients based on their age, risk tolerance, liquidity, wealth and some other factors.
 
 ### Cybersecurity Vulnerability Detection: 
-
+This project was to find common vulnuerabilities within the firewall system based on the data collected by the server log. We identified common points of attackes and weaknesses and vulnerabilities using a data driven approach. This project did not involve penetration testing or other forms of test that are not data driven.
 
 ### Root Cause Analysis: 
 Detected and isolated the root-cause of failure in large petrochemical processes from collected sensor data (pressure, temperature, flow, etc.) using advanced data-mining methods.
