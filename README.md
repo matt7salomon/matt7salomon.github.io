@@ -68,6 +68,9 @@ Used deep learning and a YOLO algorithm to detect objects from thousands of imag
 ### Natural Language Processing (NLP): 
 This project included many parts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents. We also used the same distil-Bert model from HuggingFace to answer questions from the large textual data corpus of the bank as GPT 3 model had not been released yet.
 
+## Creating and Training a GPT2 model from Scratch (self experiment):
+I created a GPT2 model with embedding, positional encoding, multi-head self attention, feed-forward layer, and normalization. I trained the model distributed with internet data using a cloud provider since it was too large to fit on a laptop. GPT2 is very similar to GPT3 in structure with less parameter and the structure source code is availbe in the transformers module from huggingface. The results are shared in a repo on my github.
+
 ### Marketing Channel Attribution (finding the most successful ad platforms): 
 wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust their marketing strategy. 
 
