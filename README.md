@@ -106,5 +106,10 @@ Detected and isolated the root-cause of failure in large petrochemical processes
 
 # Teaching Data Science:
 Taught the following courses in University of California at long beach, and San Diego State University: 
-"Data Storytelling", "Big Data", "Advanced SQL", "Intro to Data Science", "Python Programming", "Statistics and Probability"
+"Data Storytelling"
+"Big Data"
+"Advanced SQL"
+"Intro to Data Science"
+"Python Programming"
+"Statistics and Probability"
 
