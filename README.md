@@ -102,3 +102,9 @@ This project was to find common vulnuerabilities within the firewall system base
 Detected and isolated the root-cause of failure in large petrochemical processes from collected sensor data (pressure, temperature, flow, etc.) using advanced data-mining methods.
 > [!NOTE]
 > We submitted three patent applications on this product and all the three were approved.
+
+
+# Teaching Data Science:
+Taught the following courses in University of California at long beach, and San Diego State University: 
+"Data Storytelling", "Big Data", "Advanced SQL", "Intro to Data Science", "Python Programming", "Statistics and Probability"
+
