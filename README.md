@@ -19,7 +19,7 @@ I have used the following cloud platforms and services:
 
 `AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • BigQuery • Snowflake`
 
-# Recent Projects
+# Notable Corporate and Consulting Projects:
 
 ### Legal Navigator (GPT4 chatbot):
 This was a 0 to 1 product ideation to deployment into production. Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing an innovative hybrid search which filtered the irrelevant vectors quickly for a faster response time. 
