@@ -72,7 +72,7 @@ This project included many parts: one was sentiment analysis of servicenow ticke
 I created a GPT2 model with embedding, positional encoding, multi-head self attention, feed-forward layer, and normalization. I trained the model distributed with internet data using a cloud provider since it was too large to fit on a laptop. GPT2 is very similar to GPT3 in structure with less parameter and the structure source code is availbe in the transformers module from huggingface. The results are shared in a repo on my github.
 
 ### Fine-tuning Llama3 on a mac silicone M1 (self-experiment):
-I was one of the first people to fine-tune a Llama3 8billion parameter on a Mac device and share the code on github. This code connects to huggingface and downloads the model and finetunes it on a public dataset.
+I was one of the first people to fine-tune a Llama3 8billion parameter on a Mac device and share the code on github. This code connects to huggingface and downloads the model and finetunes it on a public dataset. The reason this was challenging is that Macs dont have a Cuda GPU and bitsandbytes python module still doesnt support Mac so I had to find workarounds online.
 
 ### Marketing Channel Attribution (finding the most successful ad platforms): 
 wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust their marketing strategy. 
