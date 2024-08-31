@@ -106,7 +106,11 @@ Detected and isolated the root-cause of failure in large petrochemical processes
 > [!NOTE]
 > We submitted three patent applications on this product and all the three were approved.
 
-
+## Multivariate solar forecasting:
+Used some time series sensor reading such as ApparentTemperature, AirTemperature, DewPointTemperature, RelativeHumidity, WindSpeed, WindDirection to forecast the solar generation using an RNN network. Experimented with very different LSTM based RNN strcutures for best results. 
+> [!NOTE]
+> This project was submitted to California Public Utilities Commision. 
+       
 # Teaching Data Science:
 Taught the following courses in University of California at long beach, and San Diego State University: 
 "Data Storytelling"
