@@ -106,10 +106,13 @@ Detected and isolated the root-cause of failure in large petrochemical processes
 > [!NOTE]
 > We submitted three patent applications on this product and all the three were approved.
 
-## Multivariate solar forecasting:
+### Multivariate solar forecasting:
 Used some time series sensor reading such as ApparentTemperature, AirTemperature, DewPointTemperature, RelativeHumidity, WindSpeed, WindDirection to forecast the solar generation using an RNN network. Experimented with very different LSTM based RNN strcutures for best results. 
 > [!NOTE]
-> This project was submitted to California Public Utilities Commision. 
+> This project was submitted to California Public Utilities Commision.
+
+### RAG with Llama3 and GPT4o mini:
+Created a RAG process that used chainlit as the frontend and Llama3 or GPT4o mini as the LLM in the backend. This app could load many docx, PDF, and txt files and vectorize them in a chromadb vector database. It was then able to answer to user questions in chainlit.
        
 # Teaching Data Science:
 Taught the following courses in University of California at long beach, and San Diego State University: 
