@@ -141,23 +141,23 @@ https://github.com/matt7salomon/LLM_bias_testing <br/> <br/>
 https://github.com/matt7salomon/LLM_long_text_summarization_translation <br/> <br/>
 - This repo mainly uses the Kor package in python in conjunction with mistralAI or GPT or other LLMs to extract structured data from text and perform an evaluation on the results as well. <br/>
 https://github.com/matt7salomon/mistralAI_feature_extraction_LLM_performance_analysis <br/> <br/>
-- 
+- This code uses the newly available RAGAS module to do a prformance analysis on RAG results. It shows metrics like Faithfulness, Answer relevancy, Context recall, Context precision, Context utilization, Context entity recall, Noise Sensitivity, Summarization Score. It also measures the harmfulness of the LLM responses. <br/>
 https://github.com/matt7salomon/ragas_RAG_LLM_performance_analysis <br/><br/>
-- 
+- I developed a FastAPI module and wrapped in a pip installable package to show capability. <br/>
 https://github.com/matt7salomon/pipinstallable <br/><br/>
-- 
+- This is my great implementation of RNN time series prediction which includes a rolling window for the data to be fed into the RNN and acheives great results. <br/>
 https://github.com/matt7salomon/RNN_timeseries_prediction_rollingwindow <br/><br/>
-- 
+- This is another implementation of RAG which uses Chainlit as frontend and OpenAI LLMs as required (such as GPT4) for backend. <br/>
 https://github.com/matt7salomon/RAG_chainlit_openai <br/><br/>
-- 
+- This is my anomaly detection code which includes many methods but I prefer histograms, z-score, and isolation forests for this purpose. <br/>
 https://github.com/matt7salomon/anomaly_detection <br/><br/>
-- 
+- A very old implementation of Solar forecasting using RNNs. The results are relatively good though. This is a multivariate prediction and includes exogenous inputs. <br/>
 https://github.com/matt7salomon/solar_forecasting <br/><br/>
-- 
+- Another multivarite RNN timeseries prediction with exogenous inputs. <br/>
 https://github.com/matt7salomon/multivariate_RNN_timeseries_exogenous <br/><br/>
-- 
+- This is the time series course by Jose Portilla which I find very helpfull. <br/>
 https://github.com/matt7salomon/timeseries_course <br/><br/>
-- 
+- My hypothesis testing experiment on Uber public data. <br/>
 https://github.com/matt7salomon/hypothesis_testing <br/><br/>
 - 
 https://github.com/matt7salomon/xgboost_and_cnn_sample <br/><br/>
