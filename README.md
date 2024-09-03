@@ -129,11 +129,17 @@ Taught the following courses in University of California at long beach, and San 
 "Statistics and Probability"
 
 # Github Repo Projects:
+A sample classifier with tensorflow to show code structure mainly: <br/>
 https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/>
+A Rag implemented with Chainlit and llama3. This RAG is free with all open-source packages such as chromadb vector store and works nicely: <br/>
 https://github.com/matt7salomon/RAG_chainlit_llama3 <br/>
+I was one of the first people to fine-tune Llama3 on my mac m1 device on a public dataset: <br/>
 https://github.com/matt7salomon/finetuning-llama3-on-macM1 <br/>
+This is a very simple bias testing of LLMs which only includes a few observations but showing the capability: <br/>
 https://github.com/matt7salomon/LLM_bias_testing <br/>
+LLM long summarization using Langchain and Llama3.1 or GPT 3.5 as backend. This repo also includes a code for translation of the summary as well: <br/> 
 https://github.com/matt7salomon/LLM_long_text_summarization_translation <br/>
+This repo mainly uses the Kor package in python in conjunction with mistralAI or GPT or other LLMs to extract structured data from text and perform an evaluation on the results as well. <br/>
 https://github.com/matt7salomon/mistralAI_feature_extraction_LLM_performance_analysis <br/>
 https://github.com/matt7salomon/ragas_RAG_LLM_performance_analysis <br/>
 https://github.com/matt7salomon/pipinstallable <br/>
