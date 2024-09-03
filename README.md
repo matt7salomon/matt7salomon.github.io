@@ -129,7 +129,27 @@ Taught the following courses in University of California at long beach, and San 
 "Statistics and Probability"
 
 # Github Repo Projects:
-
-[mistralAI_feature_extraction_LLM_performance_analysis](https://github.com/matt7salomon/mistralAI_feature_extraction_LLM_performance_analysis)
-
-[https://github.com/matt7salomon/xgboost_and_cnn_sample](https://github.com/matt7salomon/xgboost_and_cnn_sample)
+https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch
+https://github.com/matt7salomon/RAG_chainlit_llama3
+https://github.com/matt7salomon/finetuning-llama3-on-macM1
+https://github.com/matt7salomon/LLM_bias_testing
+https://github.com/matt7salomon/LLM_long_text_summarization_translation
+https://github.com/matt7salomon/mistralAI_feature_extraction_LLM_performance_analysis
+https://github.com/matt7salomon/ragas_RAG_LLM_performance_analysis
+https://github.com/matt7salomon/pipinstallable
+https://github.com/matt7salomon/RNN_timeseries_prediction_rollingwindow
+https://github.com/matt7salomon/RAG_chainlit_openai
+https://github.com/matt7salomon/anomaly_detection
+https://github.com/matt7salomon/solar_forecasting
+https://github.com/matt7salomon/multivariate_RNN_timeseries_exogenous
+https://github.com/matt7salomon/timeseries_course
+https://github.com/matt7salomon/hypothesis_testing
+https://github.com/matt7salomon/xgboost_and_cnn_sample
+https://github.com/matt7salomon/multivariate_RNN_timeseries_prediction
+https://github.com/matt7salomon/sample_EDA
+https://github.com/matt7salomon/RNN_timeseries_prediction_fromscratch
+https://github.com/matt7salomon/bert_sentiment_analysis
+https://github.com/matt7salomon/document_classification
+https://github.com/matt7salomon/GPT2_from_scratch
+https://github.com/matt7salomon/transformers_from_scratch
+https://github.com/matt7salomon/search_engine)
