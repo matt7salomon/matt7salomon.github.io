@@ -159,21 +159,21 @@ https://github.com/matt7salomon/multivariate_RNN_timeseries_exogenous <br/><br/>
 https://github.com/matt7salomon/timeseries_course <br/><br/>
 - My hypothesis testing experiment on Uber public data. <br/>
 https://github.com/matt7salomon/hypothesis_testing <br/><br/>
-- 
+- This is my project for the IBM data scientist certificate and it usese a 1 dimensional CNN and Xgboost for the implementation. It also has a lot of EDA and exploration and metrics for evaluation as this was presented to the class: <br/>
 https://github.com/matt7salomon/xgboost_and_cnn_sample <br/><br/>
-- 
+- Another multivariate time series forecasting using RNNs <br/>
 https://github.com/matt7salomon/multivariate_RNN_timeseries_prediction <br/><br/>
-- 
+- This is a sample EDA that I had to perform for a certificate: <br/>
 https://github.com/matt7salomon/sample_EDA <br/><br/>
-- 
+- Writing an RNN for time series prediction from scratch: <br/>
 https://github.com/matt7salomon/RNN_timeseries_prediction_fromscratch <br/><br/>
-- 
+- This a bert model that i used for sentiment analysis on a public dataset. I did a similar project on servicenow tickets as well: <br/>
 https://github.com/matt7salomon/bert_sentiment_analysis <br/><br/>
-- 
+- A document classification code which is simple and understandable: <br/>
 https://github.com/matt7salomon/document_classification <br/><br/>
-- 
+- This is my implementation of GPT2 from scratch with multihead attention, feedforward NN, and positional encoding functions: <br/>
 https://github.com/matt7salomon/GPT2_from_scratch<br/><br/>
-- 
+- This is my implementation of transformers from scratch to show capability: <br/>
 https://github.com/matt7salomon/transformers_from_scratch <br/><br/>
-- 
+- This is a search engine that uses TF-IDF. Its not the best algorithm for real world applications but does the job in this case: <br/>
 https://github.com/matt7salomon/search_engine <br/><br/>
