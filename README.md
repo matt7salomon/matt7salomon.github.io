@@ -128,3 +128,8 @@ Taught the following courses in University of California at long beach, and San 
 "Python Programming"<br/>
 "Statistics and Probability"
 
+# Github Repo Projects:
+
+[mistralAI_feature_extraction_LLM_performance_analysis](https://github.com/matt7salomon/mistralAI_feature_extraction_LLM_performance_analysis)
+
+[https://github.com/matt7salomon/xgboost_and_cnn_sample](https://github.com/matt7salomon/xgboost_and_cnn_sample)
