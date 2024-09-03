@@ -129,7 +129,7 @@ Taught the following courses in University of California at long beach, and San 
 "Statistics and Probability"
 
 # Github Repo Projects:
-A sample classifier with tensorflow to show code structure mainly: <br/> <br/><br/>
+A sample classifier with tensorflow to show code structure mainly: <br/> <br/>
 https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/>
 A Rag implemented with Chainlit and llama3. This RAG is free with all open-source packages such as chromadb vector store and works nicely: <br/>
 https://github.com/matt7salomon/RAG_chainlit_llama3 <br/>
