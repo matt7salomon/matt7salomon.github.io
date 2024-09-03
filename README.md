@@ -115,6 +115,9 @@ Used some time series sensor reading such as ApparentTemperature, AirTemperature
 
 ### RAG with Llama3 and GPT4o mini:
 Created a RAG process that used chainlit as the frontend and Llama3 or GPT4o mini as the LLM in the backend. This app could load many docx, PDF, and txt files and vectorize them in a chromadb vector database. It was then able to answer to user questions in chainlit.
+
+![image](https://github.com/user-attachments/assets/9c86e9bf-81e0-4f27-8a2f-891776569109)
+
        
 # Teaching Data Science:
 Taught the following courses in University of California at long beach, and San Diego State University: 
