@@ -19,6 +19,9 @@ I have used the following cloud platforms and services:
 
 `AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • BigQuery • Snowflake`
 
+![Uploading image.png…]()
+
+
 # Notable Corporate and Consulting Projects:
 
 ### Legal Navigator (GPT4 chatbot):
