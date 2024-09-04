@@ -175,3 +175,5 @@ https://github.com/matt7salomon/GPT2_from_scratch<br/><br/>
 https://github.com/matt7salomon/transformers_from_scratch <br/><br/>
 - This is a search engine that uses TF-IDF. Its not the best algorithm for real world applications but does the job in this case: <br/>
 https://github.com/matt7salomon/search_engine <br/><br/>
+- This is an implementation of time series forecasting using DARTS python package which includes RNNs, Prophet, ARIMA, NBEATS, and other models.<br/>
+https://github.com/matt7salomon/forecast_timeseries_darts_macbook_m1 <br/><br/>
