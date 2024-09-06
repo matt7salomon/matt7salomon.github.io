@@ -159,8 +159,6 @@ https://github.com/matt7salomon/timeseries_course <br/><br/>
 https://github.com/matt7salomon/hypothesis_testing <br/><br/>
 - This is my project for the IBM data scientist certificate and it usese a 1 dimensional CNN and Xgboost for the implementation. It also has a lot of EDA and exploration and metrics for evaluation as this was presented to the class: <br/>
 https://github.com/matt7salomon/xgboost_and_cnn_sample <br/><br/>
-- Another multivariate time series forecasting using RNNs <br/>
-https://github.com/matt7salomon/multivariate_RNN_timeseries_prediction <br/><br/>
 - This is a sample EDA that I had to perform for a certificate: <br/>
 https://github.com/matt7salomon/sample_EDA <br/><br/>
 - Writing an RNN for time series prediction from scratch: <br/>
