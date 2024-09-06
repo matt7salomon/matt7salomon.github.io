@@ -177,3 +177,5 @@ https://github.com/matt7salomon/transformers_from_scratch <br/><br/>
 https://github.com/matt7salomon/search_engine <br/><br/>
 - This is an implementation of time series forecasting using DARTS python package which includes RNNs, Prophet, ARIMA, NBEATS, and other models.<br/>
 https://github.com/matt7salomon/forecast_timeseries_darts_macbook_m1 <br/><br/>
+- This is my time series anomaly detection model. For now its using an isolation forest but will be adding more models here. <br/>
+https://github.com/matt7salomon/timeseries-anomaly-detection <br/><br/>
