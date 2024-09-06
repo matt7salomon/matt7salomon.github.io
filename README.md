@@ -177,3 +177,5 @@ https://github.com/matt7salomon/search_engine <br/><br/>
 https://github.com/matt7salomon/forecast_timeseries_darts_macbook_m1 <br/><br/>
 - This is my time series anomaly detection model. For now its using an isolation forest but will be adding more models here. <br/>
 https://github.com/matt7salomon/timeseries-anomaly-detection <br/><br/>
+- This is a sample reinforcement learning code that uses the Openai Gym package to solve some games by a trial/error rewards method. Simple code and understandable.  <br/>
+https://github.com/matt7salomon/game-solving-with-reinforcement-learning-Openai-gym  <br/><br/>
