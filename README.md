@@ -127,8 +127,7 @@ Taught the following courses in University of California at long beach, and San 
 "Statistics and Probability"
 
 # Github Repo Projects:
-- A sample classifier with tensorflow to show code structure mainly: <br/> 
-https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/> <br/>
+### LLM Projects:
 - A Rag implemented with Chainlit and llama3. This RAG is free with all open-source packages such as chromadb vector store and works nicely: <br/>
 https://github.com/matt7salomon/RAG_chainlit_llama3 <br/> <br/>
 - I was one of the first people to fine-tune Llama3 on my mac m1 device on a public dataset: <br/>
@@ -141,14 +140,20 @@ https://github.com/matt7salomon/LLM_long_text_summarization_translation <br/> <b
 https://github.com/matt7salomon/mistralAI_feature_extraction_LLM_performance_analysis <br/> <br/>
 - This code uses the newly available RAGAS module to do a prformance analysis on RAG results. It shows metrics like Faithfulness, Answer relevancy, Context recall, Context precision, Context utilization, Context entity recall, Noise Sensitivity, Summarization Score. It also measures the harmfulness of the LLM responses. <br/>
 https://github.com/matt7salomon/ragas_RAG_LLM_performance_analysis <br/><br/>
-- I developed a FastAPI module and wrapped in a pip installable package to show capability. <br/>
-https://github.com/matt7salomon/pipinstallable <br/><br/>
-- This is my great implementation of RNN time series prediction which includes a rolling window for the data to be fed into the RNN and acheives great results. <br/>
-https://github.com/matt7salomon/RNN_timeseries_prediction_rollingwindow <br/><br/>
 - This is another implementation of RAG which uses Chainlit as frontend and OpenAI LLMs as required (such as GPT4) for backend. <br/>
 https://github.com/matt7salomon/RAG_chainlit_openai <br/><br/>
-- This is my anomaly detection code which includes many methods but I prefer histograms, z-score, and isolation forests for this purpose. <br/>
-https://github.com/matt7salomon/anomaly_detection <br/><br/>
+- This is my implementation of GPT2 from scratch with multihead attention, feedforward NN, and positional encoding functions: <br/>
+https://github.com/matt7salomon/GPT2_from_scratch<br/><br/>
+### Deep learning projects:
+- A sample classifier with tensorflow to show code structure mainly: <br/> 
+https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/> <br/>
+- This is my project for the IBM data scientist certificate and it usese a 1 dimensional CNN and Xgboost for the implementation. It also has a lot of EDA and exploration and metrics for evaluation as this was presented to the class: <br/>
+https://github.com/matt7salomon/xgboost_and_cnn_sample <br/><br/>
+- I added my CNN deep learning code in tensorflow which outperforms resnet50 and resnet50 finetuned. Detecting cancer from these images is really challenging. <br/>
+https://github.com/matt7salomon/breast_cancer_from_mammograms_deep_learning <br/><br/>
+### Time series forecasting: 
+- This is my great implementation of RNN time series prediction which includes a rolling window for the data to be fed into the RNN and acheives great results. <br/>
+https://github.com/matt7salomon/RNN_timeseries_prediction_rollingwindow <br/><br/>
 - A very old implementation of Solar forecasting using RNNs. The results are relatively good though. This is a multivariate prediction and includes exogenous inputs. <br/>
 https://github.com/matt7salomon/solar_forecasting <br/><br/>
 - Another multivarite RNN timeseries prediction with exogenous inputs. <br/>
@@ -157,27 +162,29 @@ https://github.com/matt7salomon/multivariate_RNN_timeseries_exogenous <br/><br/>
 https://github.com/matt7salomon/timeseries_course <br/><br/>
 - My hypothesis testing experiment on Uber public data. <br/>
 https://github.com/matt7salomon/hypothesis_testing <br/><br/>
-- This is my project for the IBM data scientist certificate and it usese a 1 dimensional CNN and Xgboost for the implementation. It also has a lot of EDA and exploration and metrics for evaluation as this was presented to the class: <br/>
-https://github.com/matt7salomon/xgboost_and_cnn_sample <br/><br/>
-- This is a sample EDA that I had to perform for a certificate: <br/>
-https://github.com/matt7salomon/sample_EDA <br/><br/>
 - Writing an RNN for time series prediction from scratch: <br/>
 https://github.com/matt7salomon/RNN_timeseries_prediction_fromscratch <br/><br/>
-- This a bert model that i used for sentiment analysis on a public dataset. I did a similar project on servicenow tickets as well: <br/>
-https://github.com/matt7salomon/bert_sentiment_analysis <br/><br/>
-- A document classification code which is simple and understandable: <br/>
-https://github.com/matt7salomon/document_classification <br/><br/>
-- This is my implementation of GPT2 from scratch with multihead attention, feedforward NN, and positional encoding functions: <br/>
-https://github.com/matt7salomon/GPT2_from_scratch<br/><br/>
-- This is my implementation of transformers from scratch to show capability: <br/>
-https://github.com/matt7salomon/transformers_from_scratch <br/><br/>
-- This is a search engine that uses TF-IDF. Its not the best algorithm for real world applications but does the job in this case: <br/>
-https://github.com/matt7salomon/search_engine <br/><br/>
 - This is an implementation of time series forecasting using DARTS python package which includes RNNs, Prophet, ARIMA, NBEATS, and other models.<br/>
 https://github.com/matt7salomon/forecast_timeseries_darts_macbook_m1 <br/><br/>
 - This is my time series anomaly detection model. For now its using an isolation forest but will be adding more models here. <br/>
-https://github.com/matt7salomon/timeseries-anomaly-detection <br/><br/>
+https://github.com/matt7salomon/timeseries-anomaly-detection <br/><br/
+### Transformers module:
+- This a bert model that i used for sentiment analysis on a public dataset. I did a similar project on servicenow tickets as well: <br/>
+https://github.com/matt7salomon/bert_sentiment_analysis <br/><br/>
+- This is my implementation of transformers from scratch to show capability: <br/>
+https://github.com/matt7salomon/transformers_from_scratch <br/><br/>
+### Reinforcement learning:
 - This is a sample reinforcement learning code that uses the Openai Gym package to solve some games by a trial/error rewards method. Simple code and understandable.  <br/>
 https://github.com/matt7salomon/game-solving-with-reinforcement-learning-Openai-gym  <br/><br/>
-- I added my CNN deep learning code in tensorflow which outperforms resnet50 and resnet50 finetuned. Detecting cancer from these images is really challenging. <br/>
-https://github.com/matt7salomon/breast_cancer_from_mammograms_deep_learning <br/><br/>
+### Other projects:
+- This is a sample EDA that I had to perform for a certificate: <br/>
+https://github.com/matt7salomon/sample_EDA <br/><br/>
+- This is my anomaly detection code which includes many methods but I prefer histograms, z-score, and isolation forests for this purpose. <br/>
+https://github.com/matt7salomon/anomaly_detection <br/><br/>
+- I developed a FastAPI module and wrapped in a pip installable package to show capability. <br/>
+https://github.com/matt7salomon/pipinstallable <br/><br/>
+- A document classification code which is simple and understandable: <br/>
+https://github.com/matt7salomon/document_classification <br/><br/>
+- This is a search engine that uses TF-IDF. Its not the best algorithm for real world applications but does the job in this case: <br/>
+https://github.com/matt7salomon/search_engine <br/><br/>
+
