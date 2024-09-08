@@ -148,6 +148,9 @@ https://github.com/matt7salomon/ragas_RAG_LLM_performance_analysis <br/><br/>
 https://github.com/matt7salomon/RAG_chainlit_openai <br/><br/>
 - This is my implementation of GPT2 from scratch with multihead attention, feedforward NN, and positional encoding functions: <br/>
 https://github.com/matt7salomon/GPT2_from_scratch<br/><br/>
+-This my sample customer support chatbot which uses a process to finetune llama3 for the purpose. Currently its using a tiny question and answer dataset for fine-tuning and its to show capability: <br/>
+https://github.com/matt7salomon/finetuning-llama3-customersupport-chatbot <br/><br/>
+
 ### Deep learning projects:
 - A sample classifier with tensorflow to show code structure mainly: <br/> 
 https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/> <br/>
