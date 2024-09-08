@@ -1,6 +1,6 @@
 
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 # About
 I am a seasoned data scientist that specializes in prototyping analytical solutions at scale on big data. Currently, my day to day work goes with writing python, sql, spark code, leading teams, leading projects, and developing strategy. I have both IC and team lead experience. I have experience with:
