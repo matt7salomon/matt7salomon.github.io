@@ -179,7 +179,7 @@ https://github.com/matt7salomon/RNN_timeseries_prediction_fromscratch <br/><br/>
 - This is an implementation of time series forecasting using DARTS python package which includes RNNs, Prophet, ARIMA, NBEATS, and other models.<br/>
 https://github.com/matt7salomon/forecast_timeseries_darts_macbook_m1 <br/><br/>
 - This is my time series anomaly detection model. For now its using an isolation forest but will be adding more models here. <br/>
-https://github.com/matt7salomon/timeseries-anomaly-detection <br/><br/
+https://github.com/matt7salomon/timeseries-anomaly-detection <br/><br/>
 ### Transformers module:
 - This a bert model that i used for sentiment analysis on a public dataset. I did a similar project on servicenow tickets as well: <br/>
 https://github.com/matt7salomon/bert_sentiment_analysis <br/><br/>
