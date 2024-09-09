@@ -131,7 +131,7 @@ Taught the following courses in University of California at long beach, and San 
 "Statistics and Probability"
 
 # Github Repo Projects:
-### LLM Projects:
+### LLM and NLP Projects:
 - A Rag implemented with Chainlit and llama3. This RAG is free with all open-source packages such as chromadb vector store and works nicely: <br/>
 https://github.com/matt7salomon/RAG_chainlit_llama3 <br/> <br/>
 - I was one of the first people to fine-tune Llama3 on my mac m1 device on a public dataset: <br/>
@@ -150,6 +150,8 @@ https://github.com/matt7salomon/RAG_chainlit_openai <br/><br/>
 https://github.com/matt7salomon/GPT2_from_scratch<br/><br/>
 -This my sample customer support chatbot which uses a process to finetune llama3 for the purpose. Currently its using a tiny question and answer dataset for fine-tuning and its to show capability: <br/>
 https://github.com/matt7salomon/finetuning-llama3-customersupport-chatbot <br/><br/>
+-This is an NLP finetuning project for the uncased-bert model on a Macbook M1 and uses GPU. This is a great example for adapting a small model for sentence classification. <br/>
+https://github.com/matt7salomon/BERT_Fine_Tuning_Sentence_Classification_Macbook_M1 <br/><br/>
 
 ### Deep learning projects:
 - A sample classifier with tensorflow to show code structure mainly: <br/> 
