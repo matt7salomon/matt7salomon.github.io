@@ -152,7 +152,10 @@ https://github.com/matt7salomon/GPT2_from_scratch<br/><br/>
 https://github.com/matt7salomon/finetuning-llama3-customersupport-chatbot <br/><br/>
 -This is an NLP finetuning project for the uncased-bert model on a Macbook M1 and uses GPU. This is a great example for adapting a small model for sentence classification. <br/>
 https://github.com/matt7salomon/BERT_Fine_Tuning_Sentence_Classification_Macbook_M1 <br/><br/>
-
+- A document classification code which is simple and understandable. This is really an NLP project: <br/>
+https://github.com/matt7salomon/document_classification <br/><br/>
+- This is a search engine that uses TF-IDF. Its not the best algorithm for real world applications but does the job in this case. This is really another NLP project: <br/>
+https://github.com/matt7salomon/search_engine <br/><br/>
 ### Deep learning projects:
 - A sample classifier with tensorflow to show code structure mainly: <br/> 
 https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/> <br/>
@@ -192,8 +195,5 @@ https://github.com/matt7salomon/sample_EDA <br/><br/>
 https://github.com/matt7salomon/anomaly_detection <br/><br/>
 - I developed a FastAPI module and wrapped in a pip installable package to show capability. <br/>
 https://github.com/matt7salomon/pipinstallable <br/><br/>
-- A document classification code which is simple and understandable: <br/>
-https://github.com/matt7salomon/document_classification <br/><br/>
-- This is a search engine that uses TF-IDF. Its not the best algorithm for real world applications but does the job in this case: <br/>
-https://github.com/matt7salomon/search_engine <br/><br/>
+
 
