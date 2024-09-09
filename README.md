@@ -123,12 +123,12 @@ Created a RAG process that used chainlit as the frontend and Llama3 or GPT4o min
        
 # Teaching Data Science:
 Taught the following courses in University of California at long beach, and San Diego State University: <br/>
-"Data Storytelling"<br/>
-"Big Data"<br/>
-"Advanced SQL"<br/>
-"Intro to Data Science"<br/>
-"Python Programming"<br/>
-"Statistics and Probability"
+- Data Storytelling <br/>
+- Big Data <br/>
+- Advanced SQL <br/>
+- Intro to Data Science <br/>
+- Python Programming <br/>
+- Statistics and Probability
 
 # Github Repo Projects:
 ### LLM and NLP Projects:
