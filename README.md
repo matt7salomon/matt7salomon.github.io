@@ -148,9 +148,9 @@ https://github.com/matt7salomon/ragas_RAG_LLM_performance_analysis <br/><br/>
 https://github.com/matt7salomon/RAG_chainlit_openai <br/><br/>
 - This is my implementation of GPT2 from scratch with multihead attention, feedforward NN, and positional encoding functions: <br/>
 https://github.com/matt7salomon/GPT2_from_scratch<br/><br/>
--This my sample customer support chatbot which uses a process to finetune llama3 for the purpose. Currently its using a tiny question and answer dataset for fine-tuning and its to show capability: <br/>
+- This my sample customer support chatbot which uses a process to finetune llama3 for the purpose. Currently its using a tiny question and answer dataset for fine-tuning and its to show capability: <br/>
 https://github.com/matt7salomon/finetuning-llama3-customersupport-chatbot <br/><br/>
--This is an NLP finetuning project for the uncased-bert model on a Macbook M1 and uses GPU. This is a great example for adapting a small model for sentence classification. <br/>
+- This is an NLP finetuning project for the uncased-bert model on a Macbook M1 and uses GPU. This is a great example for adapting a small model for sentence classification. <br/>
 https://github.com/matt7salomon/BERT_Fine_Tuning_Sentence_Classification_Macbook_M1 <br/><br/>
 - A document classification code which is simple and understandable. This is really an NLP project: <br/>
 https://github.com/matt7salomon/document_classification <br/><br/>
