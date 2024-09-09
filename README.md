@@ -9,7 +9,7 @@ I am a seasoned data scientist that specializes in prototyping analytical soluti
 
 I have experience developing the following solutions:
 
-`Health insurance risk • Recommendation Engines • A/B testing • Image processing • Real-time object detection • Fraud Detection • Ad/Promotion Targeting • Developing LLM chatbots • Fine tuning LLMs • RAG • Business Insights`
+`Health insurance risk • Recommendation Engines • A/B testing • Image processing • Real-time object detection • Fraud Detection • Ad/Promotion Targeting • Developing LLM chatbots • Fine tuning LLMs • RAG • Customer Relation Management (CRM) • Enterprise Resource Planning • Business Insights`
 
 I currently actively use the following tools depending on client needs:
 
