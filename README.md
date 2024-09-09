@@ -183,7 +183,8 @@ https://github.com/matt7salomon/timeseries-anomaly-detection <br/><br/>
 ## Graph Networks:
 - This project is using a neo4j on a macbook m1 desktop installation for Enterprise Resource Planning (ERP). Although this implementation is simple, it shows capability. <br/><br/>
 https://github.com/matt7salomon/Enterprise_Resource_Planning_Graph_Database <br/><br/>
-
+- This project is using a neo4j on a macbook m1 desktop installation for Customer Relationship Management (CRM). It includes simple and understandable steps to connect to the graph database and create or modify customers, products, and purchases. <br/>
+https://github.com/matt7salomon/Customer_Relationship_Management_Neo4J_Graph_Database/tree/main <br/><br/>
 ### Transformers module:
 - This a bert model that i used for sentiment analysis on a public dataset. I did a similar project on servicenow tickets as well: <br/>
 https://github.com/matt7salomon/bert_sentiment_analysis <br/><br/>
