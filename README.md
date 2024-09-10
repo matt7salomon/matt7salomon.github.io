@@ -56,6 +56,9 @@ Analyzed two search engine products by calculating total utilization and remuner
 ### Sales Forecasting:
 Wrote an elaborate code to perform sales forecasting using ARIMA and Facebook Prophet for the future quarter for many clients. The code considered many possible elements such as seasonality or hosted events that would have an impact on sales. Also, wrote a win-model which was a classifier predicting which sales opportunities have a higher chance to be won so the account executive spend more time on the more profitable opportunities.
 
+### ERP and CRM using Neo4j Graph database:
+This project was peforming some tasks with planning and management data loaded into Neo4j. The dataset had been loaded using some Cypher queries. I am not a master at Cypher but can make it work. The rest of the project was parsing the data and performing machine learning on the paresed dataset.
+
 ### Recommendation Engine (Similar to Netflix recommendations): 
 This was a 0 to 1 product ideation to deployment into production. Built a recommendation engine in Spark to recommend new movies to users. The algorithm was placed in a Microsoft scheduler and executed twice a day. It would recommend new movies to the users in different carousels based on their viewer-ship history, recent purchases, and recent clicks. The product included a recency element where the most recent user ratings would get more weight. It also included a cold-start algorithm that was working based on user-segmentation from the features the customer had collected from users. 
 > [!NOTE]
@@ -180,10 +183,10 @@ https://github.com/matt7salomon/RNN_timeseries_prediction_fromscratch <br/><br/>
 https://github.com/matt7salomon/forecast_timeseries_darts_macbook_m1 <br/><br/>
 - This is my time series anomaly detection model. For now its using an isolation forest but will be adding more models here. <br/>
 https://github.com/matt7salomon/timeseries-anomaly-detection <br/><br/>
-## Graph Networks:
+### Graph Networks:
 - This project is using a neo4j on a macbook m1 desktop installation for Enterprise Resource Planning (ERP). Although this implementation is simple, it shows capability. <br/><br/>
 https://github.com/matt7salomon/Enterprise_Resource_Planning_Graph_Database <br/><br/>
-- This project is using a neo4j on a macbook m1 desktop installation for Customer Relationship Management (CRM). It includes simple and understandable steps to connect to the graph database and create or modify customers, products, and purchases. <br/>
+- This project is using a neo4j on a macbook m1 desktop installation for Customer Relationship Management (CRM). It includes simple and understandable steps to connect to the graph database and create or modify customers, products, and purchases. This project also includes a notebook with a simple machine learning applied to a data that had been loaded to Neo4j in a previous cell using a cypher query. The data for machine learning is a synthetic CRM data. <br/>
 https://github.com/matt7salomon/Customer_Relationship_Management_Neo4J_Graph_Database/tree/main <br/><br/>
 ### Transformers module:
 - This a bert model that i used for sentiment analysis on a public dataset. I did a similar project on servicenow tickets as well: <br/>
