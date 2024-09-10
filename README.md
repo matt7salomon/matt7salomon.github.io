@@ -184,8 +184,8 @@ https://github.com/matt7salomon/forecast_timeseries_darts_macbook_m1 <br/><br/>
 - This is my time series anomaly detection model. For now its using an isolation forest but will be adding more models here. <br/>
 https://github.com/matt7salomon/timeseries-anomaly-detection <br/><br/>
 ### Graph Networks and Graph Neural Network (GNN):
-- This project is using a neo4j on a macbook m1 desktop installation for Enterprise Resource Planning (ERP). Although this implementation is simple, it shows capability. <br/><br/>
-https://github.com/matt7salomon/Enterprise_Resource_Planning_Graph_Database <br/>
+- This project is using a neo4j on a macbook m1 desktop installation for Enterprise Resource Planning (ERP). Although this implementation is simple, it shows capability. <br/>
+https://github.com/matt7salomon/Enterprise_Resource_Planning_Graph_Database <br/><br/>
 - This project is using a neo4j on a macbook m1 desktop installation for Customer Relationship Management (CRM). It includes simple and understandable steps to connect to the graph database and create or modify customers, products, and purchases. This project also includes a notebook with a simple machine learning applied to a data that had been loaded to Neo4j in a previous cell using a cypher query. The data for machine learning is a synthetic CRM data. <br/>
 https://github.com/matt7salomon/Customer_Relationship_Management_Neo4J_Graph_Database/tree/main <br/><br/>
 - This code is an implementation of GNN on Cora citations dataset which is a general benchmark. The GNN was implemented in Pytorch and currently only with Cpu support. I will add Mac and Cuda GPU support later. <br/>
