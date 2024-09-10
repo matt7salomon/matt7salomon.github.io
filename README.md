@@ -45,10 +45,10 @@ Evaluated risk of small corporate accounts with under 250 members to decide if t
 A major part of this project was feature engineering to extract meaningful features from the available data to be able to predict if a certain claim should be accepted or denied. Our team of 4 data scientists split efforts on different models and feature engineering to be able to reach an accuracy, precision, and recall of all around 95%. Our champion model was an AdaBoost classifier which even performed better than the neural networks which tended to overfit on this particular dataset. The whole process which took on average of 4 days to respond by the healthcare provider was simplified to minutes in this case.
 
 ### Prompt Engineering:
-Worked on prompt engineering of GPT and llama based models to acheive the desired results in terms of output format and content. The prompt engineering included zero-shot and few-shot learning and was applied to non fine-tuned models.
+Worked on prompt engineering of GPT and llama based models to achieve the desired results in terms of output format and content. The prompt engineering included zero-shot and few-shot learning and was applied to non fine-tuned models.
 
 ### LLM Performance Evaluation and Hallucination Reduction:
-Used Mistral AI to evaluate the performance of GPT 3.5 responses matching the features in the golden dataset. Also, used the newly developed Ragas module in python to get the context relateness, context precision, context recall, accuracy,... for the extracted features by an LLM. Also, used newly developed approaches in the literature to reduce hallucination of openai LLMs beyond just adjusting temperature.
+Used Mistral AI to evaluate the performance of GPT 3.5 responses matching the features in the golden dataset. Also, used the newly developed Ragas module in python to get the context relatedness, context precision, context recall, accuracy,... for the extracted features by an LLM. Also, used newly developed approaches in the literature to reduce hallucination of openai LLMs beyond just adjusting temperature.
  
 ### Search Engine A/B Test and product A/B test: 
 Analyzed two search engine products by calculating total utilization and remuneration from Ad clicks per day. The test was performed by dividing traffic equally to two search engines and determining which one was more successful in terms of ad-clicks. Also, on the same project, I performed an A/B test between some minimal changes to the website figuring out which version performed better in terms of attracting viewers to click on different buttons.
@@ -57,7 +57,7 @@ Analyzed two search engine products by calculating total utilization and remuner
 Wrote an elaborate code to perform sales forecasting using ARIMA and Facebook Prophet for the future quarter for many clients. The code considered many possible elements such as seasonality or hosted events that would have an impact on sales. Also, wrote a win-model which was a classifier predicting which sales opportunities have a higher chance to be won so the account executive spend more time on the more profitable opportunities.
 
 ### ERP and CRM using Neo4j Graph database:
-This project was peforming some tasks with planning and management data loaded into Neo4j. The dataset had been loaded using some Cypher queries. I am not a master at Cypher but can make it work. The rest of the project was parsing the data and performing machine learning on the paresed dataset.
+This project was performing some tasks with planning and management data loaded into Neo4j. The dataset had been loaded using some Cypher queries. I am not a master at Cypher but can make it work. The rest of the project was parsing the data and performing machine learning on the parsed dataset.
 
 ### Recommendation Engine (Similar to Netflix recommendations): 
 This was a 0 to 1 product ideation to deployment into production. Built a recommendation engine in Spark to recommend new movies to users. The algorithm was placed in a Microsoft scheduler and executed twice a day. It would recommend new movies to the users in different carousels based on their viewer-ship history, recent purchases, and recent clicks. The product included a recency element where the most recent user ratings would get more weight. It also included a cold-start algorithm that was working based on user-segmentation from the features the customer had collected from users. 
@@ -76,7 +76,7 @@ Used deep learning and a YOLO algorithm to detect objects from thousands of imag
 This project included many parts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents. We also used the same distil-Bert model from HuggingFace to answer questions from the large textual data corpus of the bank as GPT 3 model had not been released yet.
 
 ### Creating and Training a GPT2 model from Scratch (self-experiment):
-I created a GPT2 model with embedding, positional encoding, multi-head self attention, feed-forward layer, and normalization. I trained the model distributed with internet data using a cloud provider since it was too large to fit on a laptop. GPT2 is very similar to GPT3 in structure with less parameter and the structure source code is availbe in the transformers module from huggingface. The results are shared in a repo on my github.
+I created a GPT2 model with embedding, positional encoding, multi-head self attention, feed-forward layer, and normalization. I trained the model distributed with internet data using a cloud provider since it was too large to fit on a laptop. GPT2 is very similar to GPT3 in structure with less parameter and the structure source code is available in the transformers module from huggingface. The results are shared in a repo on my github.
 
 ### Fine-tuning Llama3 on a mac silicone M1 (self-experiment):
 I was one of the first people to fine-tune a Llama3 8billion parameter on a Mac device and share the code on github. This code connects to huggingface and downloads the model and finetunes it on a public dataset. The reason this was challenging is that Macs dont have a Cuda GPU and bitsandbytes python module still doesnt support Mac so I had to find workarounds online.
@@ -106,7 +106,7 @@ Predicted churn along with the CLV of the customer base by clustering similar cu
 This project was to optimize a portfolio of stocks and options for different clients based on their age, risk tolerance, liquidity, wealth and some other factors.
 
 ### Cybersecurity Vulnerability Detection: 
-This project was to find common vulnuerabilities within the firewall system based on the data collected by the server log. We identified common points of attackes and weaknesses and vulnerabilities using a data driven approach. This project did not involve penetration testing or other forms of test that are not data driven.
+This project was to find common vulnerabilities within the firewall system based on the data collected by the server log. We identified common points of attacks and weaknesses and vulnerabilities using a data driven approach. This project did not involve penetration testing or other forms of test that are not data driven.
 
 ### Root Cause Analysis: 
 Detected and isolated the root-cause of failure in large petrochemical processes from collected sensor data (pressure, temperature, flow, etc.) using advanced data-mining methods.
@@ -159,6 +159,8 @@ https://github.com/matt7salomon/BERT_Fine_Tuning_Sentence_Classification_Macbook
 https://github.com/matt7salomon/document_classification <br/><br/>
 - This is a search engine that uses TF-IDF. Its not the best algorithm for real world applications but does the job in this case. This is really another NLP project: <br/>
 https://github.com/matt7salomon/search_engine <br/><br/>
+- This shows a brief experiment with Gensim python package for NLU and NLP. The examples are simple and understandable <br/>
+https://github.com/matt7salomon/gensim_NLP_examples <br/><br/>
 ### Deep learning projects:
 - A sample classifier with tensorflow to show code structure mainly: <br/> 
 https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/> <br/>
