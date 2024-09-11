@@ -9,7 +9,7 @@ I am a seasoned data scientist that specializes in prototyping analytical soluti
 
 I have experience developing the following solutions:
 
-`Health insurance risk • Recommendation Engines • A/B testing • Image processing • Real-time object detection • Fraud Detection • Ad/Promotion Targeting • Developing LLM chatbots • Fine tuning LLMs • RAG • Customer Relation Management (CRM) • Enterprise Resource Planning • Business Insights`
+`Health insurance risk • Recommendation Engines • A/B testing • Image processing • Real-time object detection • Fraud Detection • Ad/Promotion Targeting • Developing LLM chatbots • Fine tuning LLMs • RAG • Customer Relation Management (CRM) • Enterprise Resource Planning • Business Insights • Voice assistants and Chatbots`
 
 I currently actively use the following tools depending on client needs:
 
@@ -161,6 +161,9 @@ https://github.com/matt7salomon/document_classification <br/><br/>
 https://github.com/matt7salomon/search_engine <br/><br/>
 - This shows a brief experiment with Gensim python package for NLU and NLP. The examples are simple and understandable <br/>
 https://github.com/matt7salomon/gensim_NLP_examples <br/><br/>
+- This is an AI voice assistant that works on a Mac M1 with an offline LLM which comes from GPT4all. There are several LLMs to choose from and several whisper models from Openai to choose from. Also, the wakeup command can be adjusted to the desired command. <br/>
+https://github.com/matt7salomon/voiceAI_voiceassistance_gpt4all <br/><br/>
+
 ### Deep learning projects:
 - A sample classifier with tensorflow to show code structure mainly: <br/> 
 https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/> <br/>
