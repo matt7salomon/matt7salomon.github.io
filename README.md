@@ -49,7 +49,10 @@ Worked on prompt engineering of GPT and llama based models to achieve the desire
 
 ### LLM Performance Evaluation and Hallucination Reduction:
 Used Mistral AI to evaluate the performance of GPT 3.5 responses matching the features in the golden dataset. Also, used the newly developed Ragas module in python to get the context relatedness, context precision, context recall, accuracy,... for the extracted features by an LLM. Also, used newly developed approaches in the literature to reduce hallucination of openai LLMs beyond just adjusting temperature.
- 
+
+### LLM Safety and Conversational AI:
+I created some conversational AI chatbots that were able to speak to the customer and respond back with the answers. To keep customer data safe, I used offline fine-tuned LLMs for this purpose. I have some toy examples of the code in my github repo. One of these examples uses a moduel GPT4all that allows to easily download and fine-tune opensource LLMs and the other one is using the huggingface transformers module.
+
 ### Search Engine A/B Test and product A/B test: 
 Analyzed two search engine products by calculating total utilization and remuneration from Ad clicks per day. The test was performed by dividing traffic equally to two search engines and determining which one was more successful in terms of ad-clicks. Also, on the same project, I performed an A/B test between some minimal changes to the website figuring out which version performed better in terms of attracting viewers to click on different buttons.
 
