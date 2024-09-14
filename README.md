@@ -139,9 +139,9 @@ Taught the following courses in University of California at long beach, and San 
 # Github Repo Projects:
 ### LLM and NLP Projects:
 - A Rag implemented with Chainlit and llama3. This RAG is free with all open-source packages such as chromadb vector store and works nicely: <br/>
-https://github.com/matt7salomon/RAG_chainlit_llama3 <br/> <br/>
+<a href="https://github.com/matt7salomon/RAG_chainlit_llama3 "> RAG using Llama3 repository </a> <br/><br/>
 - I was one of the first people to fine-tune Llama3 on my mac m1 device on a public dataset: <br/>
-https://github.com/matt7salomon/finetuning-llama3-on-macM1 <br/> <br/>
+<a href="https://github.com/matt7salomon/finetuning-llama3-on-macM1"> Finetuning Llama3 repository </a> <br/><br/>
 - This is a very simple bias testing of LLMs which only includes a few observations but showing the capability: <br/>
 https://github.com/matt7salomon/LLM_bias_testing <br/> <br/>
 - LLM long summarization using Langchain and Llama3.1 or GPT 3.5 as backend. This repo also includes a code for translation of the summary as well: <br/> 
@@ -170,14 +170,14 @@ https://github.com/matt7salomon/voiceAI_voiceassistance_gpt4all <br/><br/>
 https://github.com/matt7salomon/conversationalAI-Macbook-M1-GPT2  <br/><br/>
 
 ### Deep learning projects:
-- A sample classifier with tensorflow to show code structure mainly: <br/> 
-https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/> <br/>
+- A sample classifier with tensorflow to show code structure mainly: <br/>
+<a href="https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch"> Tensorflow from scratch repository </a> <br/><br/>
 - This is my project for the IBM data scientist certificate and it usese a 1 dimensional CNN and Xgboost for the implementation. It also has a lot of EDA and exploration and metrics for evaluation as this was presented to the class: <br/>
-https://github.com/matt7salomon/xgboost_and_cnn_sample <br/><br/>
+<a href="https://github.com/matt7salomon/xgboost_and_cnn_sample "> Xgboost and tensorflow repository </a> <br/><br/>
 - I added my CNN deep learning code in tensorflow which outperforms resnet50 and resnet50 finetuned. Detecting cancer from these images is really challenging. <br/>
 https://github.com/matt7salomon/breast_cancer_from_mammograms_deep_learning <br/><br/>
 - This is an implementation of yolo7 directly from the relevant paper that I adjusted to work on my mac m1 GPU. It works great and a vide from my tesla dashcam has been annotated by it already. <br/>
-<a href="https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam "> Repo to yolo7 impelementation </a> <br/>
+<a href="https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam "> Yolo7 impelementation repository </a> <br/>
 here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIWwoYR2lW_zbZgi2qvsoM7L04/view?usp=drive_link "> Video of my Tesla dashcam through Yolo7 </a> <br/><br/>
 ### Time series forecasting: 
 - This is my great implementation of RNN time series prediction which includes a rolling window for the data to be fed into the RNN and acheives great results. <br/>
