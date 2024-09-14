@@ -26,11 +26,9 @@ I have used the following cloud platforms and services:
 ![image](https://github.com/user-attachments/assets/5a2f54f7-6720-4d46-acc1-92289096d244)
 
 # Notable Corporate and Consulting Projects:
-
 ### Legal Navigator (GPT4 chatbot):
 This was a 0 to 1 product ideation to deployment into production. Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing an innovative hybrid search which filtered the irrelevant vectors quickly for a faster response time. <br/>
 <a href="https://drive.google.com/file/d/1o_J68BnDYy5TzBcv5TICBFB9mJMZPYDr/view?pli=1"> Video to a toy sample of this project </a> <br/><br/>
-
 
 ### Fine-tuning GPT 3.5 turbo and GPT 4o mini for feature extraction:
 Fine-tuned GPT 3.5 turbo and GPT 4o mini to receive complaint files submitted to a law firm as input and extract the necessary features that lawyers spent hundreds of hours to extract in the past. The submitted complaint files went through an OCR and text cleaning process. The fine-tuning was done on a scale.ai and Azure-ML platform and the dataset for fine-tuning was extracted using an API call to a relativity database that the lawyers had previously used. The training dataset included 3100 complaints which were all less than 10 pages but the LLM was tuned to be able to get larger files in the validation phase as well. Extracted features were not all straightforward and the LLM had to draw conclusions from text to be able to extract some of the features. The accuracy was evaluated by Mistral AI LLM and was between 80% to 98% for different fields but the majority of fields had an accuracy of more than 95%.
@@ -127,8 +125,6 @@ Used some time series sensor reading such as ApparentTemperature, AirTemperature
 Created a RAG process that used chainlit as the frontend and Llama3 or GPT4o mini as the LLM in the backend. This app could load many docx, PDF, and txt files and vectorize them in a chromadb vector database. It was then able to answer to user questions in chainlit. <br/>
 <a href="https://github.com/user-attachments/assets/9c86e9bf-81e0-4f27-8a2f-891776569109"> RAG sample repository </a> <br/><br/>
 
-
-       
 # Teaching Data Science:
 Taught the following courses in University of California at long beach, and San Diego State University: <br/>
 - Data Storytelling <br/>
@@ -170,7 +166,6 @@ Taught the following courses in University of California at long beach, and San 
 <a href="https://github.com/matt7salomon/voiceAI_voiceassistance_gpt4all"> Voice assitant using GPT4all - works with many LLM backends </a> <br/><br/>
 - This code is for a conversational AI using different offline models on a Macbook M1 and it works perfectly even with simple LLMs like GPT2. <br/>
 <a href="https://github.com/matt7salomon/conversationalAI-Macbook-M1-GPT2"> Voice assitant using GPT2- works suprisingly well </a> <br/><br/>
-
 ### Deep learning projects:
 - A sample classifier with tensorflow to show code structure mainly: <br/>
 <a href="https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch"> Tensorflow from scratch repository </a> <br/><br/>
