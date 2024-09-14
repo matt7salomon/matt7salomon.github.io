@@ -178,7 +178,7 @@ https://github.com/matt7salomon/xgboost_and_cnn_sample <br/><br/>
 https://github.com/matt7salomon/breast_cancer_from_mammograms_deep_learning <br/><br/>
 - This is an implementation of yolo7 directly from the relevant paper that I adjusted to work on my mac m1 GPU. It works great and a vide from my tesla dashcam has been annotated by it already. <br/>
 <li class="masthead__menu-item"> <a href= https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam >Research</a> </li>  <br/><br/>
-
+<a href="http://www.something.com"> Something </a> <br/>
 [test] (https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam) 
 here is the annotated video: https://drive.google.com/file/d/1oaZsGFmIWwoYR2lW_zbZgi2qvsoM7L04/view?usp=drive_link
 ### Time series forecasting: 
