@@ -28,7 +28,7 @@ I have used the following cloud platforms and services:
 # Notable Corporate and Consulting Projects:
 
 ### Legal Navigator (GPT4 chatbot):
-This was a 0 to 1 product ideation to deployment into production. Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing an innovative hybrid search which filtered the irrelevant vectors quickly for a faster response time. 
+This was a 0 to 1 product ideation to deployment into production. Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing an innovative hybrid search which filtered the irrelevant vectors quickly for a faster response time. <br/>
 <a href="https://drive.google.com/file/d/1o_J68BnDYy5TzBcv5TICBFB9mJMZPYDr/view?pli=1"> Video to a toy sample of this project </a> <br/><br/>
 
 
@@ -124,7 +124,7 @@ Used some time series sensor reading such as ApparentTemperature, AirTemperature
 > This project was submitted to California Public Utilities Commision.
 
 ### RAG with Llama3 and GPT4o mini:
-Created a RAG process that used chainlit as the frontend and Llama3 or GPT4o mini as the LLM in the backend. This app could load many docx, PDF, and txt files and vectorize them in a chromadb vector database. It was then able to answer to user questions in chainlit.
+Created a RAG process that used chainlit as the frontend and Llama3 or GPT4o mini as the LLM in the backend. This app could load many docx, PDF, and txt files and vectorize them in a chromadb vector database. It was then able to answer to user questions in chainlit. <br/>
 <a href="https://github.com/user-attachments/assets/9c86e9bf-81e0-4f27-8a2f-891776569109"> RAG sample repository </a> <br/><br/>
 
 
@@ -183,17 +183,16 @@ https://github.com/matt7salomon/breast_cancer_from_mammograms_deep_learning <br/
 here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIWwoYR2lW_zbZgi2qvsoM7L04/view?usp=drive_link "> Video of my Tesla dashcam through Yolo7 </a> <br/><br/>
 ### Time series forecasting: 
 - This is my great implementation of RNN time series prediction which includes a rolling window for the data to be fed into the RNN and acheives great results. <br/>
-https://github.com/matt7salomon/RNN_timeseries_prediction_rollingwindow <br/><br/>
+<a href="https://github.com/matt7salomon/RNN_timeseries_prediction_rollingwindow"> RNN timeseries prediction with rolling window </a> <br/><br/>
 - A very old implementation of Solar forecasting using RNNs. The results are relatively good though. This is a multivariate prediction and includes exogenous inputs. <br/>
-https://github.com/matt7salomon/solar_forecasting <br/><br/>
+ <br/><br/>
+<a href="https://github.com/matt7salomon/solar_forecasting"> solar forecasting - multivariate time series </a> <br/><br/>
 - Another multivarite RNN timeseries prediction with exogenous inputs. <br/>
-https://github.com/matt7salomon/multivariate_RNN_timeseries_exogenous <br/><br/>
+<a href="https://github.com/matt7salomon/multivariate_RNN_timeseries_exogenous"> Multivariate timeseries forecasting with exogenous inputs</a> <br/><br/>
 - This is the time series course by Jose Portilla which I find very helpfull. <br/>
-https://github.com/matt7salomon/timeseries_course <br/><br/>
-- My hypothesis testing experiment on Uber public data. <br/>
-https://github.com/matt7salomon/hypothesis_testing <br/><br/>
+<a href="https://github.com/matt7salomon/timeseries_course "> A timeseries course by Jose portilla that I like </a> <br/><br/>
 - Writing an RNN for time series prediction from scratch: <br/>
-https://github.com/matt7salomon/RNN_timeseries_prediction_fromscratch <br/><br/>
+<a href="https://github.com/matt7salomon/RNN_timeseries_prediction_fromscratch "> RNN timeseries forecast from scratch</a> <br/><br/>
 - This is an implementation of time series forecasting using DARTS python package which includes RNNs, Prophet, ARIMA, NBEATS, and other models.<br/>
 https://github.com/matt7salomon/forecast_timeseries_darts_macbook_m1 <br/><br/>
 - This is my time series anomaly detection model. For now its using an isolation forest but will be adding more models here. <br/>
@@ -220,5 +219,7 @@ https://github.com/matt7salomon/sample_EDA <br/><br/>
 https://github.com/matt7salomon/anomaly_detection <br/><br/>
 - I developed a FastAPI module and wrapped in a pip installable package to show capability. <br/>
 https://github.com/matt7salomon/pipinstallable <br/><br/>
+- My hypothesis testing experiment on Uber public data. <br/>
+<a href="https://github.com/matt7salomon/hypothesis_testing"> My hypothesis testing sample with Uber data </a> <br/><br/>
 
 
