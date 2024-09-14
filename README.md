@@ -210,14 +210,14 @@ here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIW
 <a href="https://github.com/matt7salomon/transformers_from_scratch"> My transformers from scratch </a> <br/>
 ### Reinforcement learning:
 - This is a sample reinforcement learning code that uses the Openai Gym package to solve some games by a trial/error rewards method. Simple code and understandable.  <br/>
-https://github.com/matt7salomon/game-solving-with-reinforcement-learning-Openai-gym  <br/><br/>
+<a href="https://github.com/matt7salomon/game-solving-with-reinforcement-learning-Openai-gym "> My reinforcement learning repo</a> <br/><br/>
 ### Other projects:
 - This is a sample EDA that I had to perform for a certificate: <br/>
-https://github.com/matt7salomon/sample_EDA <br/><br/>
+<a href="https://github.com/matt7salomon/sample_EDA"> My sample EDA repo </a> <br/><br/>
 - This is my anomaly detection code which includes many methods but I prefer histograms, z-score, and isolation forests for this purpose. <br/>
-https://github.com/matt7salomon/anomaly_detection <br/><br/>
+<a href="https://github.com/matt7salomon/anomaly_detection "> My anomaly detection repo</a> <br/><br/>
 - I developed a FastAPI module and wrapped in a pip installable package to show capability. <br/>
-https://github.com/matt7salomon/pipinstallable <br/><br/>
+<a href="https://github.com/matt7salomon/pipinstallable"> The python package that I created to be pip installed </a> <br/><br/>
 - My hypothesis testing experiment on Uber public data. <br/>
 <a href="https://github.com/matt7salomon/hypothesis_testing"> My hypothesis testing sample with Uber data </a> <br/><br/>
 
