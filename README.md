@@ -167,8 +167,10 @@ https://github.com/matt7salomon/gensim_NLP_examples <br/><br/>
 - This is an AI voice assistant that works on a Mac M1 with an offline LLM which comes from GPT4all. There are several LLMs to choose from and several whisper models from Openai to choose from. Also, the wakeup command can be adjusted to the desired command. <br/>
 https://github.com/matt7salomon/voiceAI_voiceassistance_gpt4all <br/><br/>
 - This code is for a conversational AI using different offline models on a Macbook M1 and it works perfectly even with simple LLMs like GPT2. <br/>
-https://github.com/matt7salomon/conversationalAI-Macbook-M1-GPT2  <br/> <br/>
-
+https://github.com/matt7salomon/conversationalAI-Macbook-M1-GPT2  <br/><br/>
+- This is an implementation of yolo7 directly from the relevant paper that I adjusted to work on my mac m1 GPU. It works great and a vide from my tesla dashcam has been annotated by it already. <br/>
+https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam <br/><br/>
+here is the annotated video: https://drive.google.com/file/d/1oaZsGFmIWwoYR2lW_zbZgi2qvsoM7L04/view?usp=drive_link
 ### Deep learning projects:
 - A sample classifier with tensorflow to show code structure mainly: <br/> 
 https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch <br/> <br/>
