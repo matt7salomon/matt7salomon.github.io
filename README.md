@@ -177,7 +177,7 @@ Taught the following courses in University of California at long beach, and San 
 - This is my project for the IBM data scientist certificate and it usese a 1 dimensional CNN and Xgboost for the implementation. It also has a lot of EDA and exploration and metrics for evaluation as this was presented to the class: <br/>
 <a href="https://github.com/matt7salomon/xgboost_and_cnn_sample "> Xgboost and tensorflow repository </a> <br/><br/>
 - I added my CNN deep learning code in tensorflow which outperforms resnet50 and resnet50 finetuned. Detecting cancer from these images is really challenging. <br/>
-https://github.com/matt7salomon/breast_cancer_from_mammograms_deep_learning <br/><br/>
+<a href="https://github.com/matt7salomon/breast_cancer_from_mammograms_deep_learning  "> My high performing implementation of deep learning cancer detection </a> <br/>
 - This is an implementation of yolo7 directly from the relevant paper that I adjusted to work on my mac m1 GPU. It works great and a vide from my tesla dashcam has been annotated by it already. <br/>
 <a href="https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam "> Yolo7 impelementation repository </a> <br/>
 here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIWwoYR2lW_zbZgi2qvsoM7L04/view?usp=drive_link "> Video of my Tesla dashcam through Yolo7 </a> <br/><br/>
@@ -198,16 +198,16 @@ here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIW
 <a href="https://github.com/matt7salomon/timeseries-anomaly-detection"> Timeseries anomaly detection</a> <br/><br/>
 ### Graph Networks and Graph Neural Network (GNN):
 - This project is using a neo4j on a macbook m1 desktop installation for Enterprise Resource Planning (ERP). Although this implementation is simple, it shows capability. <br/>
-https://github.com/matt7salomon/Enterprise_Resource_Planning_Graph_Database <br/><br/>
+<a href="https://github.com/matt7salomon/Enterprise_Resource_Planning_Graph_Database "> ERP using Graph databases </a> <br/>
 - This project is using a neo4j on a macbook m1 desktop installation for Customer Relationship Management (CRM). It includes simple and understandable steps to connect to the graph database and create or modify customers, products, and purchases. This project also includes a notebook with a simple machine learning applied to a data that had been loaded to Neo4j in a previous cell using a cypher query. The data for machine learning is a synthetic CRM data. <br/>
-https://github.com/matt7salomon/Customer_Relationship_Management_Neo4J_Graph_Database/tree/main <br/><br/>
+<a href="https://github.com/matt7salomon/Customer_Relationship_Management_Neo4J_Graph_Database "> CRM using neo4j Graph database </a> <br/>
 - This code is an implementation of GNN on Cora citations dataset which is a general benchmark. The GNN was implemented in Pytorch and currently only with Cpu support. I will add Mac and Cuda GPU support later. <br/>
-https://github.com/matt7salomon/GNN_Pytorch_Cora_Citation_Data/tree/main <br/><br/>
+<a href="https://github.com/matt7salomon/GNN_Pytorch_Cora_Citation_Data"> GNN example on Cora citation data </a> <br/>
 ### Transformers module:
 - This a bert model that i used for sentiment analysis on a public dataset. I did a similar project on servicenow tickets as well: <br/>
-https://github.com/matt7salomon/bert_sentiment_analysis <br/><br/>
+<a href="https://github.com/matt7salomon/bert_sentiment_analysis "> Bert sentiment analysis </a> <br/>
 - This is my implementation of transformers from scratch to show capability: <br/>
-https://github.com/matt7salomon/transformers_from_scratch <br/><br/>
+<a href="https://github.com/matt7salomon/transformers_from_scratch"> My transformers from scratch </a> <br/>
 ### Reinforcement learning:
 - This is a sample reinforcement learning code that uses the Openai Gym package to solve some games by a trial/error rewards method. Simple code and understandable.  <br/>
 https://github.com/matt7salomon/game-solving-with-reinforcement-learning-Openai-gym  <br/><br/>
