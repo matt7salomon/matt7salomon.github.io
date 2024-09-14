@@ -125,8 +125,8 @@ Used some time series sensor reading such as ApparentTemperature, AirTemperature
 
 ### RAG with Llama3 and GPT4o mini:
 Created a RAG process that used chainlit as the frontend and Llama3 or GPT4o mini as the LLM in the backend. This app could load many docx, PDF, and txt files and vectorize them in a chromadb vector database. It was then able to answer to user questions in chainlit.
+<a href="https://github.com/user-attachments/assets/9c86e9bf-81e0-4f27-8a2f-891776569109"> RAG sample repository </a> <br/><br/>
 
-![image](https://github.com/user-attachments/assets/9c86e9bf-81e0-4f27-8a2f-891776569109)
 
        
 # Teaching Data Science:
@@ -151,21 +151,21 @@ Taught the following courses in University of California at long beach, and San 
 - This repo mainly uses the Kor package in python in conjunction with mistralAI or GPT or other LLMs to extract structured data from text and perform an evaluation on the results as well. <br/>
 <a href="https://github.com/matt7salomon/mistralAI_feature_extraction_LLM_performance_analysis "> LLM performance analysis repository </a> <br/><br/>
 - This code uses the newly available RAGAS module to do a prformance analysis on RAG results. It shows metrics like Faithfulness, Answer relevancy, Context recall, Context precision, Context utilization, Context entity recall, Noise Sensitivity, Summarization Score. It also measures the harmfulness of the LLM responses. <br/>
-https://github.com/matt7salomon/ragas_RAG_LLM_performance_analysis <br/><br/>
+<a href="https://github.com/matt7salomon/ragas_RAG_LLM_performance_analysis"> RAG performance analysis</a> <br/><br/>
 - This is another implementation of RAG which uses Chainlit as frontend and OpenAI LLMs as required (such as GPT4) for backend. <br/>
-https://github.com/matt7salomon/RAG_chainlit_openai <br/><br/>
+<a href="https://github.com/matt7salomon/RAG_chainlit_openai"> RAG with Openai LLMs repository</a> <br/><br/>
 - This is my implementation of GPT2 from scratch with multihead attention, feedforward NN, and positional encoding functions: <br/>
-https://github.com/matt7salomon/GPT2_from_scratch<br/><br/>
+<a href="https://github.com/matt7salomon/GPT2_from_scratch"> GPT2 implementation from scratch</a> <br/><br/>
 - This my sample customer support chatbot which uses a process to finetune llama3 for the purpose. Currently its using a tiny question and answer dataset for fine-tuning and its to show capability: <br/>
-https://github.com/matt7salomon/finetuning-llama3-customersupport-chatbot <br/><br/>
+<a href="https://github.com/matt7salomon/finetuning-llama3-customersupport-chatbot"> Finetuning Llama3 fro a customer support chatbot</a> <br/><br/>
 - This is an NLP finetuning project for the uncased-bert model on a Macbook M1 and uses GPU. This is a great example for adapting a small model for sentence classification. <br/>
-https://github.com/matt7salomon/BERT_Fine_Tuning_Sentence_Classification_Macbook_M1 <br/><br/>
+<a href="https://github.com/matt7salomon/BERT_Fine_Tuning_Sentence_Classification_Macbook_M1 "> Finetuning Bert for classification </a> <br/><br/>
 - A document classification code which is simple and understandable. This is really an NLP project: <br/>
-https://github.com/matt7salomon/document_classification <br/><br/>
+<a href="https://github.com/matt7salomon/document_classification"> Document classification </a> <br/><br/>
 - This is a search engine that uses TF-IDF. Its not the best algorithm for real world applications but does the job in this case. This is really another NLP project: <br/>
-https://github.com/matt7salomon/search_engine <br/><br/>
+<a href="https://github.com/matt7salomon/search_engine"> Search engine </a> <br/><br/>
 - This shows a brief experiment with Gensim python package for NLU and NLP. The examples are simple and understandable <br/>
-https://github.com/matt7salomon/gensim_NLP_examples <br/><br/>
+<a href="https://github.com/matt7salomon/gensim_NLP_examples"> NLP with Gensim </a> <br/><br/>
 - This is an AI voice assistant that works on a Mac M1 with an offline LLM which comes from GPT4all. There are several LLMs to choose from and several whisper models from Openai to choose from. Also, the wakeup command can be adjusted to the desired command. <br/>
 https://github.com/matt7salomon/voiceAI_voiceassistance_gpt4all <br/><br/>
 - This code is for a conversational AI using different offline models on a Macbook M1 and it works perfectly even with simple LLMs like GPT2. <br/>
