@@ -177,10 +177,8 @@ https://github.com/matt7salomon/xgboost_and_cnn_sample <br/><br/>
 - I added my CNN deep learning code in tensorflow which outperforms resnet50 and resnet50 finetuned. Detecting cancer from these images is really challenging. <br/>
 https://github.com/matt7salomon/breast_cancer_from_mammograms_deep_learning <br/><br/>
 - This is an implementation of yolo7 directly from the relevant paper that I adjusted to work on my mac m1 GPU. It works great and a vide from my tesla dashcam has been annotated by it already. <br/>
-<li class="masthead__menu-item"> <a href= https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam >Research</a> </li>  <br/><br/>
-<a href="http://www.something.com"> Something </a> <br/>
-[test] (https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam) 
-here is the annotated video: https://drive.google.com/file/d/1oaZsGFmIWwoYR2lW_zbZgi2qvsoM7L04/view?usp=drive_link
+<a href="https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam "> Repo to yolo7 impelementation </a> <br/>
+here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIWwoYR2lW_zbZgi2qvsoM7L04/view?usp=drive_link "> Video of my Tesla dashcam through Yolo7 </a> <br/><br/>
 ### Time series forecasting: 
 - This is my great implementation of RNN time series prediction which includes a rolling window for the data to be fed into the RNN and acheives great results. <br/>
 https://github.com/matt7salomon/RNN_timeseries_prediction_rollingwindow <br/><br/>
