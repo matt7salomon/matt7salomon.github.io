@@ -127,7 +127,7 @@ Created a RAG process that used chainlit as the frontend and Llama3 or GPT4o min
 
 ![image](https://github.com/user-attachments/assets/5726775f-4478-41a8-8ddb-db69bbded5a8)
 
-<img src="[(https://github.com/user-attachments/assets/5726775f-4478-41a8-8ddb-db69bbded5a8)]" alt="description" width="300" height="200"/>
+<img>((https://github.com/user-attachments/assets/5726775f-4478-41a8-8ddb-db69bbded5a8) | width=100)
 
 # Teaching Data Science:
 Taught the following courses in University of California at long beach, and San Diego State University: <br/>
