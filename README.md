@@ -216,7 +216,7 @@ here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIW
 - This project uses different classifiers to classify claims as accpeted or denied. This process generally takes a long time for health insurance providers but machine learning can help speed up the process while not removing the need for human intervention <br/>
 <a href="https://github.com/matt7salomon/healthcare_claims_acceptance"> Healthcare claims model </a> <br/><br/>
 - This repo has my fraud detection code for healthcare claims. It is still under development. <br/>
-
+<a href="https://github.com/matt7salomon/health_claims_fraud_detection"> Healthcare claims fraud detection </a> <br/><br/>
 
 ### Other projects:
 - This is a sample EDA that I had to perform for a certificate: <br/>
