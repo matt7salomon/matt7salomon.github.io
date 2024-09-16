@@ -210,6 +210,14 @@ here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIW
 ### Reinforcement learning:
 - This is a sample reinforcement learning code that uses the Openai Gym package to solve some games by a trial/error rewards method. Simple code and understandable.  <br/>
 <a href="https://github.com/matt7salomon/game-solving-with-reinforcement-learning-Openai-gym "> My reinforcement learning repo</a> <br/><br/>
+### Healthcare projects:
+- This project focuses on Revenue Cycle Management (RCM) for healthcare providers. The analysis leverages hospital spending data to understand key financial metrics such as payments, costs, and revenue gaps across different states in the United States. The goal of this project is to provide insights into how efficiently hospitals are managing their costs and payments, as well as to identify potential areas for improvement.
+<a href="https://github.com/matt7salomon/revenue_cycle_management_healthcare"> revenue cycle management code </a> <br/><br/>
+- This project uses different classifiers to classify claims as accpeted or denied. This process generally takes a long time for health insurance providers but machine learning can help speed up the process while not removing the need for human intervention <br/>
+<a href="https://github.com/matt7salomon/healthcare_claims_acceptance"> Healthcare claims model </a> <br/><br/>
+- This repo has my fraud detection code for healthcare claims. It is still under development. <br/>
+
+
 ### Other projects:
 - This is a sample EDA that I had to perform for a certificate: <br/>
 <a href="https://github.com/matt7salomon/sample_EDA"> My sample EDA repo </a> <br/><br/>
@@ -219,10 +227,6 @@ here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIW
 <a href="https://github.com/matt7salomon/pipinstallable"> The python package that I created to be pip installed </a> <br/><br/>
 - My hypothesis testing experiment on Uber public data. <br/>
 <a href="https://github.com/matt7salomon/hypothesis_testing"> My hypothesis testing sample with Uber data </a> <br/><br/>
-- This project focuses on Revenue Cycle Management (RCM) for healthcare providers. The analysis leverages hospital spending data to understand key financial metrics such as payments, costs, and revenue gaps across different states in the United States. The goal of this project is to provide insights into how efficiently hospitals are managing their costs and payments, as well as to identify potential areas for improvement.
-<a href="https://github.com/matt7salomon/revenue_cycle_management_healthcare"> revenue cycle management code </a> <br/><br/>
-- This project uses different classifiers to classify claims as accpeted or denied. This process generally takes a long time for health insurance providers but machine learning can help speed up the process while not removing the need for human intervention <br/>
-<a href="https://github.com/matt7salomon/healthcare_claims_acceptance"> Healthcare claims model </a> <br/><br/>
 
 
 
