@@ -182,6 +182,9 @@ Taught the following courses in University of California at long beach, and San 
 here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIWwoYR2lW_zbZgi2qvsoM7L04/view?usp=drive_link "> Video of my Tesla dashcam through Yolo7 </a> <br/><br/>
 - This is my bayesian network implementation which is not completely done yet. <br/>
 <a href="https://github.com/matt7salomon/bayesian_neural_network_noisy_data "> Bayesian network </a> <br/>
+- This is my implementation of h2o deep learning on a dataset that is noisy with has null values. It seems to be working well or at least the Automl implementation does. <br/>
+<a href="https://github.com/matt7salomon/h2o_deep_learning_noisy_data"> H2o deep learning </a> <br/>
+
 ### Time series forecasting: 
 - This is my great implementation of RNN time series prediction which includes a rolling window for the data to be fed into the RNN and acheives great results. <br/>
 <a href="https://github.com/matt7salomon/RNN_timeseries_prediction_rollingwindow"> RNN timeseries prediction with rolling window </a> <br/><br/>
