@@ -172,6 +172,8 @@ Taught the following courses in University of California at long beach, and San 
 <a href="https://github.com/matt7salomon/conversationalAI-Macbook-M1-GPT2"> Voice assitant using GPT2- works suprisingly well </a> <br/><br/>
 - This repo has some samples of my LLM based patent work such as patent evaluation, novelty determination, patent value, patent claim generator. All of these codes are designed to run on colab <br/>
 <a href="https://github.com/matt7salomon/LLM_patent_related_work"> LLM based patent work repo </a> <br/><br/>
+- This repo is my implementation of vulnerability detection in server logs using bert and anomaly detection techniques. All of these codes are designed to run on colab <br/>
+<a href="https://github.com/matt7salomon/bert_server_vulnerability_detection"> Server vulnerability repo </a> <br/><br/>
 ### Deep learning projects:
 - A sample classifier with tensorflow to show code structure mainly: <br/>
 <a href="https://github.com/matt7salomon/my_sample_tensorflow_classifier_fromScratch"> Tensorflow from scratch repository </a> <br/><br/>
