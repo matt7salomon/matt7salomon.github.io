@@ -185,7 +185,7 @@ Taught the following courses in University of California at long beach, and San 
 <a href="https://github.com/matt7salomon/yolo7-mac-M1-tesla-dashcam "> Yolo7 impelementation repository </a> <br/>
 here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIWwoYR2lW_zbZgi2qvsoM7L04/view?usp=drive_link "> Video of my Tesla dashcam through Yolo7 </a> <br/><br/>
 - This is my bayesian network implementation which is not completely done yet. <br/>
-<a href="https://github.com/matt7salomon/bayesian_neural_network_noisy_data "> Bayesian network </a> <br/>
+<a href="https://github.com/matt7salomon/bayesian_neural_network_noisy_data "> Bayesian network </a> <br/><br/>
 - This is my implementation of h2o deep learning on a dataset that is noisy with has null values. It seems to be working well or at least the Automl implementation does. <br/>
 <a href="https://github.com/matt7salomon/h2o_deep_learning_noisy_data"> H2o deep learning </a> <br/>
 
@@ -206,11 +206,11 @@ here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIW
 <a href="https://github.com/matt7salomon/timeseries-anomaly-detection"> Timeseries anomaly detection</a> <br/><br/>
 ### Graph Networks and Graph Neural Network (GNN):
 - This project is using a neo4j on a macbook m1 desktop installation for Enterprise Resource Planning (ERP). Although this implementation is simple, it shows capability. <br/>
-<a href="https://github.com/matt7salomon/Enterprise_Resource_Planning_Graph_Database "> ERP using Graph databases </a> <br/>
-- This project is using a neo4j on a macbook m1 desktop installation for Customer Relationship Management (CRM). It includes simple and understandable steps to connect to the graph database and create or modify customers, products, and purchases. This project also includes a notebook with a simple machine learning applied to a data that had been loaded to Neo4j in a previous cell using a cypher query. The data for machine learning is a synthetic CRM data. <br/>
-<a href="https://github.com/matt7salomon/Customer_Relationship_Management_Neo4J_Graph_Database "> CRM using neo4j Graph database </a> <br/>
+<a href="https://github.com/matt7salomon/Enterprise_Resource_Planning_Graph_Database "> ERP using Graph databases </a> <br/><br/>
+- This project is using a neo4j on a macbook m1 desktop installation for Customer Relationship Management (CRM). It includes simple and understandable steps to connect to the graph database and create or modify customers, products, and purchases. This project also includes a notebook with a simple machine learning applied to a data that had been loaded to Neo4j in a previous cell using a cypher query. The data for machine learning is a synthetic CRM data. <br/><br/>
+<a href="https://github.com/matt7salomon/Customer_Relationship_Management_Neo4J_Graph_Database "> CRM using neo4j Graph database </a> <br/><br/>
 - This code is an implementation of GNN on Cora citations dataset which is a general benchmark. The GNN was implemented in Pytorch and currently only with Cpu support. I will add Mac and Cuda GPU support later. <br/>
-<a href="https://github.com/matt7salomon/GNN_Pytorch_Cora_Citation_Data"> GNN example on Cora citation data </a> <br/>
+<a href="https://github.com/matt7salomon/GNN_Pytorch_Cora_Citation_Data"> GNN example on Cora citation data </a> <br/><br/>
 ### Transformers module:
 - This a bert model that i used for sentiment analysis on a public dataset. I did a similar project on servicenow tickets as well: <br/>
 <a href="https://github.com/matt7salomon/bert_sentiment_analysis "> Bert sentiment analysis </a> <br/>
