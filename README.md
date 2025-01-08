@@ -23,6 +23,10 @@ I have used the following cloud platforms and services:
 
 `AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • BigQuery • Snowflake`
 
+GPU technologies that I have worked with:
+
+`RapidsAI • Cuda • Macbook MPS • TensorRT • NeMo • Jetson • Triton Inference Server`
+
 ![image](https://github.com/user-attachments/assets/5a2f54f7-6720-4d46-acc1-92289096d244)
 
 # Notable Corporate and Consulting Projects:
@@ -35,6 +39,9 @@ Fine-tuned GPT 3.5 turbo and GPT 4o mini to receive complaint files submitted to
 
 ### Fine-tuning Llama2 model for question answering based on previous customer calls:
 This was a 0 to 1 product ideation to deployment into production. Fine-tuned a llama2 model on a databricks platform to be able to respond to questions that the account executives had on the products from the saved chat between system's engineers and the customers that were saved as scripts. The product reduced the need for account executives to reach out to technical personnel to get information about the products within the company portfolio.
+
+### AI based Retail solution with LLM search:
+This was a 0 to 1 product ideation to deployment into production. We developed an AI-powered retail app that uses Large Language Models (LLMs) for personalized product searches based on user-defined criteria. The app will act as an intelligent shopping assistant, filtering products by attributes like brand, dimensions, and color, and integrate with in-store systems to locate products on shelves. All available search engines currently use keyword search. Our engine does context search instead. For example, if you search for “Toolbox with more than 120 tools” on Amazon, it may show a 120-volt power saw instead as it searches for words and doesn’t understand user’s intent.
 
 ### Health Insurance Risk:
 Evaluated risk of small corporate accounts with under 250 members to decide if the insurance company should extend a quote or adjust a quote for these customers. Our model decided increments, decrements, or decline to quote for small corporate customers where historical claims data did not exist for a 2 year ongoing engagement. The provider was previously using a prescription only model and I helped them extended to a prescription+medical model improving metrics and saving the company money.
