@@ -208,12 +208,12 @@ here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIW
 - This project is using a neo4j on a macbook m1 desktop installation for Enterprise Resource Planning (ERP). Although this implementation is simple, it shows capability. <br/>
 <a href="https://github.com/matt7salomon/Enterprise_Resource_Planning_Graph_Database "> ERP using Graph databases </a> <br/><br/>
 - This project is using a neo4j on a macbook m1 desktop installation for Customer Relationship Management (CRM). It includes simple and understandable steps to connect to the graph database and create or modify customers, products, and purchases. This project also includes a notebook with a simple machine learning applied to a data that had been loaded to Neo4j in a previous cell using a cypher query. The data for machine learning is a synthetic CRM data. <br/><br/>
-<a href="https://github.com/matt7salomon/Customer_Relationship_Management_Neo4J_Graph_Database "> CRM using neo4j Graph database </a> <br/><br/>
+<a href="https://github.com/matt7salomon/Customer_Relationship_Management_Neo4J_Graph_Database "> CRM using neo4j Graph database </a> <br/>
 - This code is an implementation of GNN on Cora citations dataset which is a general benchmark. The GNN was implemented in Pytorch and currently only with Cpu support. I will add Mac and Cuda GPU support later. <br/>
 <a href="https://github.com/matt7salomon/GNN_Pytorch_Cora_Citation_Data"> GNN example on Cora citation data </a> <br/><br/>
 ### Transformers module:
 - This a bert model that i used for sentiment analysis on a public dataset. I did a similar project on servicenow tickets as well: <br/>
-<a href="https://github.com/matt7salomon/bert_sentiment_analysis "> Bert sentiment analysis </a> <br/>
+<a href="https://github.com/matt7salomon/bert_sentiment_analysis "> Bert sentiment analysis </a> <br/><br/>
 - This is my implementation of transformers from scratch to show capability: <br/>
 <a href="https://github.com/matt7salomon/transformers_from_scratch"> My transformers from scratch </a> <br/>
 ### Reinforcement learning:
