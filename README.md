@@ -103,7 +103,7 @@ Helped a software vendor target ads and promotions to the customers who were lik
 ### Retail Fraud Detection and Anomaly Analysis: 
 Detected fraud accounts in millions of customer accounts based on their pattern compared to similar accounts in the same domain as well as other unusual patterns
 
-### Lost and Found Images for a Courier (deep learning): 
+### Retail Lost and Found Images for a Mail Courier (deep learning): 
 We received a large dataset of objects found by the courier in their lost and found with item id and the item picture from different angels. Customers had also submitted pictures of their lost items. We trained a convolutional neural network to match the customer submitted photo to the pictures in the repository and find the lost item. In this instance, the client had approached us with a well defined problem but we created the solution and deployed it into production for the courier. 
 
 ### Software Sales Subscription Roadmap: 
@@ -112,10 +112,10 @@ Found the most successful paths to user subscriptions from customer road includi
 ### Retail Customer Lifetime Value (CLV) and Churn: 
 Predicted churn along with the CLV of the customer base by clustering similar customers using all collected features.  I also estimated the potential value from any subscription using deep learning.
 
-### Stock/Options Portfolio Risk: 
+### Fianance - Stock/Options Portfolio Risk: 
 This project was to optimize a portfolio of stocks and options for different clients based on their age, risk tolerance, liquidity, wealth and some other factors.
 
-### Cybersecurity Vulnerability Detection: 
+### Sotware - Cybersecurity Vulnerability Detection: 
 This project was to find common vulnerabilities within the firewall system based on the data collected by the server log. We identified common points of attacks and weaknesses and vulnerabilities using a data driven approach. This project did not involve penetration testing or other forms of test that are not data driven.
 
 ### Manufacturing Failure Root Cause Analysis: 
