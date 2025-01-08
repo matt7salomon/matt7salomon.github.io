@@ -66,7 +66,7 @@ Analyzed two search engine products by calculating total utilization and remuner
 ### Retail and Software Sales Forecasting:
 Wrote an elaborate code to perform sales forecasting using ARIMA and Facebook Prophet for the future quarter for many clients. The code considered many possible elements such as seasonality or hosted events that would have an impact on sales. Also, wrote a win-model which was a classifier predicting which sales opportunities have a higher chance to be won so the account executive spend more time on the more profitable opportunities.
 
-### ERP and CRM using Neo4j Graph database:
+### Retail Enterprise Resource Planning (ERP) and CRM using Neo4j Graph database:
 This project was performing some tasks with planning and management data loaded into Neo4j. The dataset had been loaded using some Cypher queries. I am not a master at Cypher but can make it work. The rest of the project was parsing the data and performing machine learning on the parsed dataset.
 
 ### Retail and Video Recommendation Engine (Similar to Netflix recommendations): 
@@ -74,7 +74,7 @@ This was a 0 to 1 product ideation to deployment into production. Built a recomm
 > [!NOTE]
 > This product is still in production in a major telecommunication company on their hadoop cluster. The recommendation engine has been upgraded a few times but it is still essentially the same base product. It is being used to recommend videos in south american countries that the telecommunication company serves.
 
-### Detecting cancer from mammograms (deep learning): 
+### Healthcare Detecting cancer from mammograms (deep learning): 
 This project was a deep learning use-case to detect cancer from mammograms and had to have a high recall. The final results would be triaged by a physician and it was important that all positive cases are caught. The results were presented to the customer using metrics such as accuracy, precision, and recall.
 
 ### Real time object detection in the road for a self driving car (deep learning): 
@@ -82,7 +82,7 @@ Used deep learning and a YOLO algorithm to detect objects from thousands of imag
 > [!NOTE]
 > This product went into production for a Japanese car manufacturer. Not sure if they still use this version or changed to a different product as YOLO has advanced and improved a lot since.
 
-### Natural Language Processing (NLP): 
+### Sentiment Analysis using Natural Language Processing (NLP) and Bert Models: 
 This project included many parts: one was sentiment analysis of servicenow tickets to find out which product was more successful in deployment. Another part was topic modeling of a bank's previous pdfs on environmental and social issues. The other was using a Bert model to find masked words within the documents. We also used the same distil-Bert model from HuggingFace to answer questions from the large textual data corpus of the bank as GPT 3 model had not been released yet.
 
 ### Creating and Training a GPT2 model from Scratch (self-experiment):
@@ -91,7 +91,7 @@ I created a GPT2 model with embedding, positional encoding, multi-head self atte
 ### Fine-tuning Llama3 on a mac silicone M1 (self-experiment):
 I was one of the first people to fine-tune a Llama3 8billion parameter on a Mac device and share the code on github. This code connects to huggingface and downloads the model and finetunes it on a public dataset. The reason this was challenging is that Macs dont have a Cuda GPU and bitsandbytes python module still doesnt support Mac so I had to find workarounds online.
 
-### Marketing Channel Attribution (finding the most successful advertisements in a campaign): 
+### Retail Marketing Channel Attribution (finding the most successful advertisements in a campaign): 
 wrote an object oriented code to share credit between offline an online marketing channels for user sign-ups using collected data from user’s browsing history. The client had used Facebook, google, TV, radio,... ads and wanted to find out which ads were most successful to readjust their marketing strategy. 
 
 ### Converting legacy code between python/R/Java/Spark/Scala:
@@ -100,13 +100,13 @@ On many occasions, I had to convert legacy code between different platforms for 
 ### Retail Ad/promotion targeting:
 Helped a software vendor target ads and promotions to the customers who were likely to churn not to disturb all customers at the same time and to save money on promotions too. The solution would send a pop up to on the screen of the targeted user to sign-up again at a discount.
 
-### Fraud Analysis and Anomaly Analysis: 
+### Retail Fraud Detection and Anomaly Analysis: 
 Detected fraud accounts in millions of customer accounts based on their pattern compared to similar accounts in the same domain as well as other unusual patterns
 
 ### Lost and Found Images for a Courier (deep learning): 
 We received a large dataset of objects found by the courier in their lost and found with item id and the item picture from different angels. Customers had also submitted pictures of their lost items. We trained a convolutional neural network to match the customer submitted photo to the pictures in the repository and find the lost item. In this instance, the client had approached us with a well defined problem but we created the solution and deployed it into production for the courier. 
 
-### Subscription Roadmap: 
+### Software Sales Subscription Roadmap: 
 Found the most successful paths to user subscriptions from customer road including clicks, website visits, store logins, etc.
 
 ### Retail Customer Lifetime Value (CLV) and Churn: 
@@ -118,12 +118,12 @@ This project was to optimize a portfolio of stocks and options for different cli
 ### Cybersecurity Vulnerability Detection: 
 This project was to find common vulnerabilities within the firewall system based on the data collected by the server log. We identified common points of attacks and weaknesses and vulnerabilities using a data driven approach. This project did not involve penetration testing or other forms of test that are not data driven.
 
-### Root Cause Analysis: 
+### Manufacturing Failure Root Cause Analysis: 
 Detected and isolated the root-cause of failure in large petrochemical processes from collected sensor data (pressure, temperature, flow, etc.) using advanced data-mining methods.
 > [!NOTE]
 > We submitted three patent applications on this product and all the three were approved.
 
-### Multivariate solar forecasting:
+### Multivariate solar forecasting - Time series forecasting:
 Used some time series sensor reading such as ApparentTemperature, AirTemperature, DewPointTemperature, RelativeHumidity, WindSpeed, WindDirection to forecast the solar generation using an RNN network. Experimented with very different LSTM based RNN strcutures for best results. 
 > [!NOTE]
 > This project was submitted to California Public Utilities Commision.
