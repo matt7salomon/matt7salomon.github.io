@@ -51,7 +51,7 @@ Evaluated risk of small corporate accounts with under 250 members to decide if t
 ### Health Claims Acceptance/denial:
 A major part of this project was feature engineering to extract meaningful features from the available data to be able to predict if a certain claim should be accepted or denied. Our team of 4 data scientists split efforts on different models and feature engineering to be able to reach an accuracy, precision, and recall of all around 95%. Our champion model was an AdaBoost classifier which even performed better than the neural networks which tended to overfit on this particular dataset. The whole process which took on average of 4 days to respond by the healthcare provider was simplified to minutes in this case.
 
-### Prompt Engineering:
+### LLM Prompt Engineering to improve results without Fine-tuning:
 Worked on prompt engineering of GPT and llama based models to achieve the desired results in terms of output format and content. The prompt engineering included zero-shot and few-shot learning and was applied to non fine-tuned models.
 
 ### LLM Performance Evaluation and Hallucination Reduction:
