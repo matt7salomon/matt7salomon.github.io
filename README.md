@@ -43,7 +43,7 @@ This was a 0 to 1 product ideation to deployment into production. Fine-tuned a l
 ### AI based Retail solution with LLM search:
 This was a 0 to 1 product ideation to deployment into production. We developed an AI-powered retail app that uses Large Language Models (LLMs) for personalized product searches based on user-defined criteria. The app will act as an intelligent shopping assistant, filtering products by attributes like brand, dimensions, and color, and integrate with in-store systems to locate products on shelves. All available search engines currently use keyword search. Our engine does context search instead. For example, if you search for “Toolbox with more than 120 tools” on Amazon, it may show a 120-volt power saw instead as it searches for words and doesn’t understand user’s intent.
 
-### Health Insurance Risk:
+### Health Insurance risk assessment to adjust quotes:
 Evaluated risk of small corporate accounts with under 250 members to decide if the insurance company should extend a quote or adjust a quote for these customers. Our model decided increments, decrements, or decline to quote for small corporate customers where historical claims data did not exist for a 2 year ongoing engagement. The provider was previously using a prescription only model and I helped them extended to a prescription+medical model improving metrics and saving the company money.
 > [!NOTE]
 > My Med+RX model is currently in production for this large health insurance provider. It is being retrained periodically on the newly provided data to adjust to medication price inflations and to avoid model drift but the structure stays the same.
