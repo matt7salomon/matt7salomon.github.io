@@ -25,7 +25,7 @@ I have used the following cloud platforms and services:
 
 GPU technologies that I have worked with:
 
-`RapidsAI and CUDF • Cuda • Macbook MPS • TensorRT • NeMo • Jetson • Triton Inference Server`
+`RapidsAI and CUDF • Cuda • Macbook MPS • TensorRT • NeMo • Jetson • Triton Inference Server • ONNX`
 
 ![image](https://github.com/user-attachments/assets/5a2f54f7-6720-4d46-acc1-92289096d244)
 
