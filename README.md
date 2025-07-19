@@ -5,7 +5,7 @@
 # About
 I am a seasoned data scientist that specializes in prototyping analytical solutions at scale on big data. Currently, my day to day work goes with writing python, sql, spark code, leading teams, leading projects, and developing strategy. I have both IC and team lead experience. I have experience with:
 
-`LLMs • Fine-tuning • Generative AI • Transformers • Machine learning • time series analysis • predictive analytics • deep learning • Natural language processing • Vector and Graph databases • dashboards and visualizations • Teaching data science • Connecting with non-technical audience`
+`LLMs • Fine-tuning • Generative AI • Transformers • Machine learning • Time series analysis • Predictive analytics • Deep learning • Natural language processing • Vector and Graph databases • dashboards and visualizations • Teaching data science • Connecting with non-technical audience`
 
 I have experience developing the following solutions:
 
@@ -13,19 +13,19 @@ I have experience developing the following solutions:
 
 I currently actively use the following tools depending on client needs:
 
-`Python • R • Spark • SQL • Scala • SAS • Java • Tableau • Shiny App • Hive • Hadoop • Linux • MySQL •Neo4j`
+`Python • R • Spark • SQL • Scala • Java • Tableau • Shiny App • Hive • Hadoop • Linux • MySQL •Neo4j`
 
 Notable packages and libraries that I use for data mining and machine learning:
 
-`Pyspark • Spark ML • MLlib • Scikit-learn • Theano • TensorFlow • Pytorch • H2O • Transformers`
+`Pyspark • Spark ML • MLlib • Scikit-learn •  TensorFlow • Pytorch • Transformers`
 
 I have used the following cloud platforms and services:
 
-`AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • BigQuery • Snowflake`
+`AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • BigQuery • Snowflake`
 
 GPU technologies that I have worked with:
 
-`RapidsAI and CUDF • Cuda • Macbook MPS • TensorRT • NeMo • Jetson • Triton Inference Server • ONNX`
+`RapidsAI and CUDF • Cuda • Macbook MPS • TensorRT • NeMo • Jetson • Triton Inference Server `
 
 ![image](https://github.com/user-attachments/assets/5a2f54f7-6720-4d46-acc1-92289096d244)
 
