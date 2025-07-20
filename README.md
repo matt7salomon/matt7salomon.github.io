@@ -3,9 +3,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 # About
-I am a seasoned data scientist that specializes in prototyping analytical solutions at scale on big data. Currently, my day to day work goes with writing python, sql, spark code, leading teams, leading projects, and developing strategy. I have both IC and team lead experience. I have experience with:
+I prototype and operationalize large-scale AI/ML systems—spanning classical ML to state-of-the-art LLMs—on multimillion-row, multimodal datasets. My day-to-day spans Python/Spark development, cloud MLOps, and technical leadership of cross-functional teams. I have experience with:
 
-`LLMs • Fine-tuning • Generative AI • Transformers • Machine learning • Time series analysis • Predictive analytics • Deep learning • Natural language processing • Vector and Graph databases • dashboards and visualizations • Teaching data science • Connecting with non-technical audience`
+` • Generative AI & LLM Fine-tuning (GPT-4o, Llama 2/3, BERT family) • Retrieval-Augmented Generation (RAG) • Causal & Predictive Modeling  • Transformers • Machine learning  • Predictive analytics • Deep learning • Natural language processing • Time-Series & Forecasting • Computer Vision & Real-time Object Detection • Fraud & Anomaly Detection • A/B & Multivariate Experimentation • Health-care Risk & Clinical Decision Support`
 
 I have experience developing the following solutions:
 
@@ -13,15 +13,15 @@ I have experience developing the following solutions:
 
 I currently actively use the following tools depending on client needs:
 
-`Python • R • Spark • SQL • Scala • Java • Tableau • Shiny App • Hive • Hadoop • Linux • MySQL •Neo4j`
+`Python • R • Spark • SQL • Scala • Java • Tableau • Shiny App • Hive • Hadoop • Linux • MySQL •Neo4j •Transformers`
 
 Notable packages and libraries that I use for data mining and machine learning:
 
-`Pyspark • Spark ML • MLlib • Scikit-learn •  TensorFlow • Pytorch • Transformers`
+`Pyspark • Spark ML • MLlib • Scikit-learn •  TensorFlow • Pytorch `
 
 I have used the following cloud platforms and services:
 
-`AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • BigQuery • Snowflake`
+`AWS (EC2, Sagemaker, S3, Redshift) • Azure • GCP (Vertex AI, BigQuery)  • Databricks • Domino • Snowflake`
 
 GPU technologies that I have worked with:
 
