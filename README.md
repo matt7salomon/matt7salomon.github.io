@@ -5,7 +5,7 @@
 # About
 I prototype and operationalize large-scale AI/ML systems—spanning classical ML to state-of-the-art LLMs—on multimillion-row, multimodal datasets. My day-to-day spans Python/Spark development, cloud MLOps, and technical leadership of cross-functional teams. I have experience with:
 
-`Generative AI & LLM Fine-tuning (GPT-4o, Llama 2/3, BERT family) • Retrieval-Augmented Generation (RAG) • Causal & Predictive Modeling  • Transformers • Machine learning  • Predictive analytics • Deep learning • Natural language processing • Time-Series & Forecasting • Computer Vision & Real-time Object Detection • Fraud & Anomaly Detection • A/B & Multivariate Experimentation • Health-care Risk & Clinical Decision Support`
+`Generative AI & LLM Fine-tuning (GPT family, Llama family, BERT family) • Retrieval-Augmented Generation (RAG) • Causal & Predictive Modeling  • Transformers • Machine learning  • Predictive analytics • Deep learning • Natural language processing • Time-Series & Forecasting • Computer Vision & Real-time Object Detection • Fraud & Anomaly Detection • A/B & Multivariate Experimentation • Health-care Risk & Clinical Decision Support`
 
 I have experience developing the following solutions:
 
