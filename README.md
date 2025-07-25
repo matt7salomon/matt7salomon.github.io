@@ -11,13 +11,13 @@ I have experience developing the following solutions:
 
 `Health insurance risk • Recommendation Engines • A/B testing • Image processing • Real-time object detection • Fraud Detection • Ad/Promotion Targeting • Developing LLM chatbots • Fine tuning LLMs • RAG • Customer Relation Management (CRM) • Enterprise Resource Planning • Business Insights • Voice assistants and Chatbots`
 
-I currently actively use the following tools depending on client needs:
+I currently actively use the following programming languages depending on client needs:
 
-`Python • R • Spark • SQL • Scala • Java • Tableau • Shiny App • Hive • Hadoop • Linux • MySQL •Neo4j •Transformers`
+`Python (Expert)• Spark (Expert)• SQL (Expert) •Linux (Expert) • Java •R •Scala`
 
 Notable packages and libraries that I use for data mining and machine learning:
 
-`Pyspark • Spark ML • MLlib • Scikit-learn •  TensorFlow • Pytorch `
+`Pyspark • Spark ML • MLlib • Scikit-learn •  TensorFlow • Pytorch • Shiny App • Hive •Neo4j •Transformers • Tableau • Hadoop`
 
 I have used the following cloud platforms and services:
 
@@ -243,8 +243,6 @@ here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIW
 <a href="https://github.com/matt7salomon/pipinstallable"> The python package that I created to be pip installed </a> <br/><br/>
 - My hypothesis testing experiment on Uber public data. <br/>
 <a href="https://github.com/matt7salomon/hypothesis_testing"> My hypothesis testing sample with Uber data </a> <br/><br/>
-
-
 
 ### Licenses:
 - Reinforcement Learning Specialization by University of Alberta on Coursera, 2024  <br/>
