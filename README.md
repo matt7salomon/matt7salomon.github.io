@@ -5,27 +5,27 @@
 # About
 I prototype and operationalize large-scale AI/ML systems—spanning classical ML to state-of-the-art LLMs—on multimillion-row, multimodal datasets. My day-to-day spans Python/Spark development, cloud MLOps, and technical leadership of cross-functional teams. I have experience with:
 
-`Generative AI & LLM Fine-tuning (GPT family, Llama family, BERT family) •Retrieval-Augmented Generation (RAG) •Transformers •Machine learning  •Predictive analytics •Deep learning •Natural language processing •Time-Series & Forecasting •Computer Vision & Real-time Object Detection •Fraud & Anomaly Detection •A/B & Multivariate Experimentation •Health-care Risk & Clinical Decision Support`
+`•Generative AI & LLM Fine-tuning (GPT family, Llama family, BERT family) •Retrieval-Augmented Generation (RAG) •Transformers •Machine learning  •Predictive analytics •Deep learning •Natural language processing •Time-Series & Forecasting •Computer Vision & Real-time Object Detection •Fraud & Anomaly Detection •A/B & Multivariate Experimentation •Health-care Risk & Clinical Decision Support`
 
 I have experience developing the following solutions:
 
-`Health insurance risk •Recommendation Engines •A/B testing •Image processing •Real-time object detection •Fraud Detection •Ad/Promotion Targeting •Developing LLM chatbots •Fine tuning LLMs •RAG •Customer Relation Management (CRM) •Enterprise Resource Planning •Business Insights •Voice assistants and Chatbots`
+`•Health insurance risk •Recommendation Engines •A/B testing •Image processing •Real-time object detection •Fraud Detection •Ad/Promotion Targeting •Developing LLM chatbots •Fine tuning LLMs •RAG •Customer Relation Management (CRM) •Enterprise Resource Planning •Business Insights •Voice assistants and Chatbots`
 
 I currently actively use the following programming languages depending on client needs:
 
-`Python (Expert) •Spark (Expert) •SQL (Expert) •Linux (Expert) • Java •R •Scala`
+`•Python (Expert) •Spark (Expert) •SQL (Expert) •Linux (Expert) • Java •R •Scala`
 
 Notable packages and libraries that I use for data mining and machine learning:
 
-`Pyspark •Spark ML •MLlib •Scikit-learn •TensorFlow •Pytorch •Shiny App •Hive •Neo4j •Transformers •Tableau •Hadoop`
+`•Pyspark •Spark ML •MLlib •Scikit-learn •TensorFlow •Pytorch •Shiny App •Hive •Neo4j •Transformers •Tableau •Hadoop`
 
 I have used the following cloud platforms and services:
 
-`AWS (EC2, Sagemaker, S3, Redshift) •Azure •GCP (Vertex AI, BigQuery)  •Databricks •Domino •Snowflake`
+`•AWS (EC2, Sagemaker, S3, Redshift) •Azure •GCP (Vertex AI, BigQuery)  •Databricks •Domino •Snowflake`
 
 GPU technologies that I have worked with:
 
-`RapidsAI and CUDF •Cuda • Macbook MPS •TensorRT •NeMo`
+`•RapidsAI and CUDF •Cuda • Macbook MPS •TensorRT •NeMo`
 
 ![image](https://github.com/user-attachments/assets/5a2f54f7-6720-4d46-acc1-92289096d244)
 
