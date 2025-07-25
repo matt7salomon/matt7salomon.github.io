@@ -13,7 +13,7 @@ I have experience developing the following solutions:
 
 I currently actively use the following programming languages depending on client needs:
 
-`Python (Expert)• Spark (Expert)• SQL (Expert) •Linux (Expert) • Java •R •Scala`
+`Python (Expert) •Spark (Expert) •SQL (Expert) •Linux (Expert) • Java •R •Scala`
 
 Notable packages and libraries that I use for data mining and machine learning:
 
