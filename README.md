@@ -3,7 +3,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 # About
-I prototype and operationalize large-scale AI/ML systems—spanning classical ML to state-of-the-art LLMs—on multimillion-row, multimodal datasets. My day-to-day spans Python/Spark development, cloud MLOps, and technical leadership of cross-functional teams. I have experience with:
+I graduated my undergrad as the 1st student in my graudating class and received my PhD later from Texas A&M University. Currently, I prototype and operationalize large-scale AI/ML systems—spanning classical ML to state-of-the-art LLMs—on multimillion-row, multimodal datasets. My day-to-day spans Python/Spark development, cloud MLOps, and technical leadership of cross-functional teams. I have experience with:
 
 `•Generative AI & LLM Fine-tuning (GPT family, Llama family, BERT family) •Retrieval-Augmented Generation (RAG) •Transformers •Machine learning  •Predictive analytics •Deep learning •Natural language processing •Time-Series & Forecasting •Computer Vision & Real-time Object Detection •Fraud & Anomaly Detection •A/B & Multivariate Experimentation •Health-care Risk & Clinical Decision Support`
 
