@@ -2,7 +2,7 @@
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
-# About
+# About Me:
 I graduated my undergrad as the 1st student in my graudating class and received my PhD later from Texas A&M University. Currently, I prototype and operationalize large-scale AI/ML systems—spanning classical ML to state-of-the-art LLMs—on multimillion-row, multimodal datasets. My day-to-day spans Python/Spark development, cloud MLOps, and technical leadership of cross-functional teams. I have experience with:
 
 `•Generative AI & LLM Fine-tuning (GPT family, Llama family, BERT family) •Retrieval-Augmented Generation (RAG) •Transformers •Machine learning  •Predictive analytics •Deep learning •Natural language processing •Time-Series & Forecasting •Computer Vision & Real-time Object Detection •Fraud & Anomaly Detection •A/B & Multivariate Experimentation •Health-care Risk & Clinical Decision Support`
@@ -29,7 +29,7 @@ GPU technologies that I have worked with:
 
 ![image](https://github.com/user-attachments/assets/5a2f54f7-6720-4d46-acc1-92289096d244)
 
-# Notable Corporate and Consulting Projects:
+# My Notable Corporate and Consulting Projects:
 ### Legal Navigator (GPT4 chatbot):
 This was a 0 to 1 product ideation to deployment into production. Created a GPT4 based RAG using the langchain and azure ML ecosystem that would connect and vectorize thousands of files in different languages and respond to the customer's legal questions using those files. The chatbot would include the filename and the paragraphs where it got its answer from. The backend was using a FastAPI which was deployed in production in Posit-connect and the front-end was using chainlit and streamlit. The backend was using an Azure Search AI vector store and performing an innovative hybrid search which filtered the irrelevant vectors quickly for a faster response time. <br/>
 <a href="https://drive.google.com/file/d/1o_J68BnDYy5TzBcv5TICBFB9mJMZPYDr/view?pli=1"> Video to a toy sample of this project </a> <br/><br/>
