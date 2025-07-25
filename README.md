@@ -246,3 +246,17 @@ here is the annotated video: <a href="https://drive.google.com/file/d/1oaZsGFmIW
 
 
 
+### Licenses:
+- Reinforcement Learning Specialization by University of Alberta on Coursera, 2024  <br/>
+- Probability - The Science of Uncertainty and Data, Massachusetts Institute of Technology, 2023 <br/>
+- Fundamentals of Statistics, Massachusetts Institute of Technology, 2023 <br/>
+- Data Analysis: Statistical Modeling and Computation in Applications, Massachusetts Institute of Technology, 2023 <br/>
+- Machine Learning with Python-From Linear Models to Deep Learning, Massachusetts Institute of Technology, 2023 <br/>
+- Advanced Data Science with IBM by IBM Skills Network on Coursera 2022 <br/>
+- Algorithms by Stanford University on Coursera 2022 <br/>
+-	Machine Learning by Stanford University & DeepLearning.AI on Coursera 2022 <br/>
+-	Applied Data Science with Python by University of Michigan on Coursera 2022 <br/>
+-	Modern Big Data Analysis with SQL by Cloudera on Coursera 2022 <br/>
+-	Deep Learning by DeepLearning.AI on Coursera 2022 <br/>
+-	Accelerated Computer Science Fundamentals by University of Illinois at Urbana-Champaign on Coursera 2022 <br/>
+
