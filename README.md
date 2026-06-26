@@ -78,7 +78,7 @@ This was a 0 to 1 product ideation to deployment into production. Built a recomm
 This project was a deep learning use-case to detect cancer from mammograms and had to have a high recall. The final results would be triaged by a physician and it was important that all positive cases are caught. The results were presented to the customer using metrics such as accuracy, precision, and recall.
 
 ### Real time object detection in the road for a self driving car (deep learning): 
-Used deep learning and a YOLO algorithm to detect objects from thousands of images and videos collected by cars dashcam. Per clients request the method was implemented in Tensorflow, Caffe, Pytorch, and mxnet for a quick comparison. The final deployed algorithm would detect pedestrians, trucks, SUVs, sedans, and bicycles as well as road signs.
+Used deep learning and a YOLO algorithm to detect objects from thousands of images and videos collected by cars dashcam. Per clients request the method was implemented in Tensorflow, Pytorch, and other platforms for a quick comparison. The final deployed algorithm would detect pedestrians, trucks, SUVs, sedans, and bicycles as well as road signs.
 > [!NOTE]
 > This product went into production for a Japanese car manufacturer. Not sure if they still use this version or changed to a different product as YOLO has advanced and improved a lot since.
 
