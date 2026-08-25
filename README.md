@@ -3,34 +3,38 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 # About Me:
-I am a Principal Data Scientist and AI/ML Engineer specializing in production GenAI, agentic AI, RAG, document intelligence, and large-scale machine learning. I graduated first in my undergraduate class and later earned a PhD in Electrical Engineering from Texas A&M University.
+I am a Principal Data Scientist and AI/ML Engineer specializing in prototyping and operationalizing production-grade GenAI, agentic AI, and analytical solutions at scale on multimillion-row, multimodal datasets. I graduated first in my undergraduate class and later earned a PhD in Electrical Engineering from Texas A&M University.
 
 I have experience with:
 
-• Agentic AI and Multi-Agent Systems • RAG • LLM Fine-Tuning • Tool and Function Calling • MCP Servers • Prompt Engineering • Structured Extraction • Embeddings • Hybrid and Vector Search • LLM Evaluation and Observability • Transformers • NLP • Deep Learning • Forecasting • Recommender Systems • Graph Neural Networks • Fraud and Anomaly Detection • A/B and Multivariate Testing
+• Generative AI and LLMs • Agentic AI and Multi-Agent Systems • RAG • LLM Fine-Tuning • Tool and Function Calling • MCP Servers • Prompt Engineering • Transformers • Structured Extraction • Embeddings • Hybrid and Vector Search • LLM Evaluation and Observability • Machine Learning • Predictive Analytics • Deep Learning • NLP • Time-Series Forecasting • Computer Vision and Real-Time Object Detection • Recommender Systems • Graph Neural Networks • Fraud and Anomaly Detection • A/B and Multivariate Testing • Healthcare Risk and Clinical Decision Support • Dashboards and Visualization
 
 I have developed:
 
-• Agentic AI Workflows • Multi-Stage LLM Applications • RAG and Document Intelligence Platforms • Conversational AI Systems • Natural-Language-to-SQL Agents • LLM Extraction Pipelines • LLM Deployment and Serving • Recommendation Engines • Healthcare Risk Models • Fraud and PII Detection Systems • Customer Segmentation Models • Automated Retraining Pipelines
+• Agentic AI Workflows • Multi-Stage LLM Applications • RAG and Document Intelligence Platforms • Conversational AI Systems • LLM Chatbots • Natural-Language-to-SQL Agents • Structured Extraction Pipelines • LLM Deployment and Serving • Recommendation Engines • Healthcare Risk Models • Image-Processing and Real-Time Object-Detection Systems • Fraud and PII Detection Systems • Ad and Promotion Targeting • Customer Segmentation and Graph-Based Risk Models • CRM and ERP Analytics • Voice Assistants • Business-Intelligence Solutions • Automated Retraining Pipelines
 
-Programming languages:
+Programming languages and data technologies:
 
-• Python • SQL • Spark/PySpark • Linux/Unix • R • Java
+• Python • SQL • Spark/PySpark • R • Java • Scala • Linux/Unix • Kafka • Airflow • Hive • Hadoop
 
-GenAI frameworks and protocols:
+AI and machine-learning frameworks:
 
-• LangChain • LangGraph • LlamaIndex • CrewAI • MCP • Hugging Face Transformers • OpenAI API • Ragas • DeepEval • LangSmith • Arize Phoenix • Langfuse
+• PyTorch • TensorFlow/Keras • scikit-learn • XGBoost • LightGBM • JAX • Hugging Face Transformers • Spark ML • MLlib • LangChain • LangGraph • LlamaIndex • CrewAI • OpenAI API • Ragas • DeepEval • LangSmith • Arize Phoenix • Langfuse
 
-Machine learning and production engineering:
+Application, data, and visualization technologies:
 
-• PyTorch • TensorFlow/Keras • scikit-learn • XGBoost • LightGBM • FastAPI • Pydantic • MLflow • Docker • Kubernetes • CI/CD • ONNX • TensorRT • vLLM • CUDA
+• FastAPI • Pydantic • MLflow • Neo4j • PostgreSQL • MySQL • SQL Server • MongoDB • Redis • ChromaDB • FAISS • Pinecone • Tableau • Shiny • Streamlit • Chainlit
 
 Cloud platforms and services:
 
-• AWS: Amazon Bedrock, Bedrock AgentCore, SageMaker, EC2, S3, and CloudWatch  
+• AWS: Amazon Bedrock, Bedrock AgentCore, SageMaker, EC2, S3, Redshift, and CloudWatch  
 • Azure: Microsoft Foundry, Azure ML, Azure AI Search, and Azure Monitor  
 • GCP: Vertex AI and BigQuery  
-• Databricks • Snowflake
+• Databricks • Domino • Snowflake
+
+Production and GPU technologies:
+
+• Docker • Kubernetes • Git • CI/CD • ONNX • TensorRT • vLLM • NVIDIA RAPIDS • cuDF • CUDA • Apple Metal Performance Shaders (MPS) • NVIDIA NeMo
 
 ![image](https://github.com/user-attachments/assets/5a2f54f7-6720-4d46-acc1-92289096d244)
 
