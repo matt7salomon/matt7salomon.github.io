@@ -3,29 +3,34 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 # About Me:
-I graduated my undergrad as the 1st student in my graudating class and received my PhD later from Texas A&M University. Currently, I prototype and operationalize large-scale AI/ML systems—spanning classical ML to state-of-the-art LLMs—on multimillion-row, multimodal datasets. My day-to-day spans Python/Spark development, cloud MLOps, and technical leadership of cross-functional teams. I have experience with:
+I am a Principal Data Scientist and AI/ML Engineer specializing in production GenAI, agentic AI, RAG, document intelligence, and large-scale machine learning. I graduated first in my undergraduate class and later earned a PhD in Electrical Engineering from Texas A&M University.
 
-`•Generative AI & LLM Fine-tuning (GPT family, Llama family, BERT family) •Retrieval-Augmented Generation (RAG) •Transformers •Machine learning  •Predictive analytics •Deep learning •Natural language processing •Time-Series & Forecasting •Computer Vision & Real-time Object Detection •Fraud & Anomaly Detection •A/B & Multivariate Experimentation •Health-care Risk & Clinical Decision Support`
+I have experience with:
 
-I have experience developing the following solutions:
+• Agentic AI and Multi-Agent Systems • RAG • LLM Fine-Tuning • Tool and Function Calling • MCP Servers • Prompt Engineering • Structured Extraction • Embeddings • Hybrid and Vector Search • LLM Evaluation and Observability • Transformers • NLP • Deep Learning • Forecasting • Recommender Systems • Graph Neural Networks • Fraud and Anomaly Detection • A/B and Multivariate Testing
 
-`•Health insurance risk •Recommendation Engines •A/B testing •Image processing •Real-time object detection •Fraud Detection •Ad/Promotion Targeting •Developing LLM chatbots •Fine tuning LLMs •RAG •Customer Relation Management (CRM) •Enterprise Resource Planning •Business Insights •Voice assistants and Chatbots`
+I have developed:
 
-I currently actively use the following programming languages depending on client needs:
+• Agentic AI Workflows • Multi-Stage LLM Applications • RAG and Document Intelligence Platforms • Conversational AI Systems • Natural-Language-to-SQL Agents • LLM Extraction Pipelines • LLM Deployment and Serving • Recommendation Engines • Healthcare Risk Models • Fraud and PII Detection Systems • Customer Segmentation Models • Automated Retraining Pipelines
 
-`•Python (Expert) •Spark (Expert) •SQL (Expert) •Linux (Expert) • Java •R •Scala`
+Programming languages:
 
-Notable packages and libraries that I use for data mining and machine learning:
+• Python • SQL • Spark/PySpark • Linux/Unix • R • Java
 
-`•Pyspark •Spark ML •MLlib •Scikit-learn •TensorFlow •Pytorch •Shiny App •Hive •Neo4j •Transformers •Tableau •Hadoop`
+GenAI frameworks and protocols:
 
-I have used the following cloud platforms and services:
+• LangChain • LangGraph • LlamaIndex • CrewAI • MCP • Hugging Face Transformers • OpenAI API • Ragas • DeepEval • LangSmith • Arize Phoenix • Langfuse
 
-`•AWS (EC2, Sagemaker, S3, Redshift) •Azure •GCP (Vertex AI, BigQuery)  •Databricks •Domino •Snowflake`
+Machine learning and production engineering:
 
-GPU technologies that I have worked with:
+• PyTorch • TensorFlow/Keras • scikit-learn • XGBoost • LightGBM • FastAPI • Pydantic • MLflow • Docker • Kubernetes • CI/CD • ONNX • TensorRT • vLLM • CUDA
 
-`•RapidsAI and CUDF •Cuda • Macbook MPS •TensorRT •NeMo`
+Cloud platforms and services:
+
+• AWS: Amazon Bedrock, Bedrock AgentCore, SageMaker, EC2, S3, and CloudWatch  
+• Azure: Microsoft Foundry, Azure ML, Azure AI Search, and Azure Monitor  
+• GCP: Vertex AI and BigQuery  
+• Databricks • Snowflake
 
 ![image](https://github.com/user-attachments/assets/5a2f54f7-6720-4d46-acc1-92289096d244)
 
